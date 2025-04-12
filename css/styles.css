@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body, html {
+    font-family: Arial, sans-serif;
+    height: 100%;
+  }
+  
+  .navbar {
+    width: 100%;
+    height: 108px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+    background-color: #00142a;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .logo {
+    font-size: 28px;
+    color: #00bfff;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 120px; 
+  }
+  
+  .nav-links li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .icons {
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    color: #00bfff;
+  }
+  
+  .hero {
+    height: 100vh;
+    background-image: url('IMG/mapa-energia.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .overlay {
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 40px;
+    border-radius: 8px;
+  }
+  
+  .overlay h2 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .overlay p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .overlay button {
+    background-color: black;
+    color: white;
+    padding: 12px 30px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+  }
