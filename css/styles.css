@@ -1,54 +1,62 @@
-* {
+ *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  body, html {
-    font-family: Arial, sans-serif;
-    height: 100%;
+  .container{
+    margin: auto;
+    font-family: "Inter", sans-serif;
+
+  }
+
+  .container header{
+    background-color: aqua;
+    height: 100vh;
+    width: 100%;
+
   }
   
-  .navbar {
-    width: 100%;
-    height: 108px;
+  .wrap-nav .navbar{
+    margin: 0 auto;
+    height: 70px;
+    background-color: rgb(8, 8, 68);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 40px;
-    background-color: rgba(0, 20, 42, 0); /* rgba para fondo transparente */
-    color: white;
     position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+    top: 20px; 
+    left: 18px;
+    right: 18px;
+    z-index: 100;
+    border-radius: 11px;
   }
   
-  .logo {
+  .logo{
     font-size: 28px;
     color: #00bfff;
   }
   
-  .nav-links {
+  .nav-links{
     list-style: none;
     display: flex;
     gap: 120px; 
   }
   
-  .nav-links li a {
+  .nav-links li a{
     color: white;
     text-decoration: none;
     font-size: 16px;
   }
   
-  .icons {
+  .icons{
     display: flex;
     gap: 20px;
     font-size: 20px;
     color: #00bfff;
   }
   
-  .hero {
+  .hero{
     height: 100vh;
     background-image: url('../assets/images/Fondo.jpg');
     background-size: cover;
@@ -59,7 +67,7 @@
     position: relative;
   }
   
-  .overlay {
+  .overlay{
     text-align: center;
     color: white;
     background-color: rgba(0, 0, 0, 0.3);
@@ -67,17 +75,17 @@
     border-radius: 8px;
   }
   
-  .overlay h1 {
+  .overlay h2{
     font-size: 48px;
     margin-bottom: 20px;
   }
   
-  .overlay p {
+  .overlay p{
     font-size: 18px;
     margin-bottom: 30px;
   }
   
-  .overlay button {
+  .overlay button{
     background-color: black;
     color: white;
     padding: 12px 30px;
