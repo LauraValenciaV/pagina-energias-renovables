@@ -16,11 +16,12 @@
     justify-content: space-between;
     align-items: center;
     padding: 0 40px;
-    background-color: #00142a;
+    background-color: rgba(0, 20, 42, 0); /* rgba para fondo transparente */
     color: white;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
+    z-index: 1000; /* Asegura que esté por encima de otros elementos */
   }
   
   .logo {
@@ -49,12 +50,13 @@
   
   .hero {
     height: 100vh;
-    background-image: url('IMG/mapa-energia.jpg');
+    background-image: url('../assets/images/Fondo.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
+    position: relative;
   }
   
   .overlay {
@@ -65,7 +67,7 @@
     border-radius: 8px;
   }
   
-  .overlay h2 {
+  .overlay h1 {
     font-size: 48px;
     margin-bottom: 20px;
   }
