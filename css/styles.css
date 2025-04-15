@@ -24,6 +24,9 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 10px 30px;
+    background-color: rgba(0, 20, 42, 0); /* rgba para fondo transparente */
+    color: white;
     position: fixed;
     top: 20px; 
     left: 18px;
@@ -36,6 +39,12 @@
     font-size: 28px;
     color: #00bfff;
   }
+
+  .logo img {
+    height: 50px;         /* Puedes ajustar el tamaño */
+    width: auto;
+    object-fit: contain;  /* Asegura que no se deforme */
+  }
   
   .nav-links{
     list-style: none;
@@ -46,7 +55,7 @@
   .nav-links li a{
     color: white;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 18px;
   }
   
   .icons{
@@ -94,3 +103,137 @@
     cursor: pointer;
     border-radius: 6px;
   }
+
+
+/* Contenedor de las tarjetas */
+.tipos-energia {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Dos columnas en pantallas grandes */
+    gap: 40px; /* Espacio entre las tarjetas */
+    max-width: 1200px; /* Limita el tamaño máximo del contenedor */
+    margin: 0 auto; /* Centra el contenedor */
+    padding: 60px 20px; /* Espaciado interior */
+}
+
+/* Estilo para cada tarjeta */
+.card {
+    background-color: #f5f5f5;
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column; /* Organiza los elementos de la tarjeta en columna */
+    justify-content: space-between;
+}
+
+/* Efecto al pasar el ratón sobre la tarjeta */
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Imagen dentro de la tarjeta */
+.card img {
+    width: 100%; /* La imagen ocupa todo el ancho de la tarjeta */
+    max-width: 500px; /* Limita el tamaño máximo de la imagen */
+    height: auto;
+    border-radius: 16px;
+    margin-bottom: 15px;
+}
+
+/* Estilo para el título */
+.card h2 {
+    font-size: 28px;
+    color: rgb(255, 102, 0);
+    margin-bottom: 10px;
+}
+
+/* Párrafos dentro de la tarjeta */
+.card p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Datos curiosos */
+.dato-curioso {
+    font-size: 14px;
+    color: #555;
+    margin-top: 20px;
+}
+
+/* Contenedor de Ventajas y Desventajas */
+.ventajas-desventajas {
+    display: block;  /* Cambiamos a bloque para que todo esté en una sola columna */
+    margin-top: 20px;
+}
+
+/* Cada sección de Ventajas y Desventajas */
+.ventajas-desventajas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    flex-wrap: wrap; /* por si se hace muy angosto en pantallas pequeñas */
+  }
+  
+  .ventajas, .desventajas {
+    flex: 1 1 45%; /* dos columnas de tamaño similar */
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
+  }
+  
+  .ventajas h3, .desventajas h3 {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+    color: rgb(60, 60, 60);
+  }
+  
+  .ventajas ul, .desventajas ul {
+    padding-left: 20px;
+    list-style-type: disc;
+  }
+  
+  .ventajas ul li, .desventajas ul li {
+    margin-bottom: 6px;
+    font-size: 0.95rem;
+  }
+  
+  .explorar-btn {
+    display: inline-block;
+    margin-top: 16px;
+    background-color: rgb(255, 102, 0);
+    color: white;
+    padding: 12px 30px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+ }
+
+ .explorar-btn:hover {
+    background-color: #e65c00;
+    transform: scale(1.1);  /* Aumenta el tamaño del botón */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Añade sombra */
+  }
+
+/* Responsividad: cambia a una sola columna en pantallas pequeñas */
+@media (max-width: 768px) {
+    .tipos-energia {
+        grid-template-columns: 1fr; /* Una columna en pantallas pequeñas */
+    }
+}
+
+
+
