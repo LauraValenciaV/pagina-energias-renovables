@@ -1,53 +1,87 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="grupo 5">
     <title>Energías Renovables En Colombia</title>
     <link rel="stylesheet" href="css/styles.css">
+
+    <!--fuentes -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+
 </head>
 <body>
-    <header>
-        <h1 id="titulo-principal">Energías Renovables En Colombia</h1>
-        <nav class="navbar">
-            <div class="logo">
-                <i class="fas fa-bolt"></i>
-              </div>
-            <ul class="nav-links">
-                <li><a href="#">Energías limpias</a></li>
-                <li><a href="#">Hidroeléctrica</a></li>
-                <li><a href="#">Solar</a></li>
-                <li><a href="#">Eólica</a></li>
-                <li><a href="#">Biomasa y biogás</a></li>
-                <li><a href="#">Geotérmica</a></li>
-                <li><a href="#">Nosotros</a></li>
-              </ul>
-              <div class="icons">
-                <i class="fas fa-search"></i>
-                <i class="fas fa-comment-dots"></i>
-              </div>
-        </nav>
-    </header>
-    <main>
-        <section class="hero">
-            <div class="overlay">
-                <h2>¿Qué son las energías renovables?</h2>
-                <p class="general paragraph">
-                    Las energías renovables son fuentes de energía que se obtienen de la naturaleza y que nunca se agotan porque se renuevan constantemente.
-                    </p>
-                <p class="general paragraph">
-                    A diferencia de los combustibles fósiles (como el carbón o el petróleo), las energías renovables no contaminan y ayudan a cuidar el medio ambiente.
-                    </p>
-              <button onclick="handleClick()">Comenzar</button>
+    <!--contenedor principal-->
+
+    <div class="container">
+        <header>
+            <!-- nav principal -->
+
+            <div class="wrap-nav">
+                <nav class="navbar">
+                    <div class="logo">
+                        <i class="fas fa-bolt"></i>
+                    </div>
+
+                    <ul class="nav-links">
+                        <li><a href="#">Energías limpias</a></li>
+                        <li><a href="#">Hidroeléctrica</a></li>
+                        <li><a href="#">Solar</a></li>
+                        <li><a href="#">Eólica</a></li>
+                        <li><a href="#">Biomasa y biogás</a></li>
+                        <li><a href="#">Geotérmica</a></li>
+                        <li><a href="#">Nosotros</a></li>
+                    </ul>
+
+                    <div class="icons">
+                            <i class="fas fa-search"></i>
+                            <i class="fas fa-comment-dots"></i>
+                    </div>
+
+                </nav>
             </div>
-          </section>
 
+            <section class="hero">
+                <div class="overlay">
+                    <h2>¿Qué son las energías renovables?</h2>
+                    <p class="general paragraph">
+                        Las energías renovables son fuentes de energía que se obtienen de la naturaleza y que nunca se agotan porque se renuevan constantemente.
+                        </p>
+                    <p class="general paragraph">
+                        A diferencia de los combustibles fósiles (como el carbón o el petróleo), las energías renovables no contaminan y ayudan a cuidar el medio ambiente.
+                        </p>
+                  <button onclick="handleClick()">Comenzar</button>
+                </div>
+            </section>
 
-    </main>
-    <footer>
+        </header>
 
-    </footer>
-    <script src="js/script.js"></script> 
+        <!--conenido main -->
+
+        <main>
+            <section class="hero">
+                <div class="overlay">
+                    <h2>¿Qué son las energías renovables?</h2>
+                    <p class="general paragraph">
+                        Las energías renovables son fuentes de energía que se obtienen de la naturaleza y que nunca se agotan porque se renuevan constantemente.
+                        </p>
+                    <p class="general paragraph">
+                        A diferencia de los combustibles fósiles (como el carbón o el petróleo), las energías renovables no contaminan y ayudan a cuidar el medio ambiente.
+                        </p>
+                  <button onclick="handleClick()">Comenzar</button>
+                </div>
+            </section>     
+    
+        </main>
+        <footer>
+    
+        </footer>
+        <script src="js/script.js"></script> 
+
+    </div>
 
 </body>
 </html>
