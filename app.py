@@ -179,6 +179,11 @@ def windGeneration():
     path = os.path.join(BASE_DIR, 'data', 'wind-generation.csv')
     return jsonify(leer_csv_y_limpiar(path))
 
+@app.route('/api/renewableShareEnergy')
+def renewableShareEnergy():
+    path = os.path.join(BASE_DIR, 'data', 'renewable-share-energy.csv')
+    return jsonify(leer_csv_y_limpiar(path))
+
 
 
 

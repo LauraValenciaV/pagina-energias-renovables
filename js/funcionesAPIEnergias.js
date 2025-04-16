@@ -139,6 +139,7 @@ async function obtenerGeneracionEnergiaEolica() {
     }
 }
 
+
 window.onload = () => {
     obtenerConsumoHidroenergia();
     obtenerProduccionBioenergia();
@@ -153,3 +154,7 @@ window.onload = () => {
     obtenerConsumoEnergiaSolar();
     obtenerGeneracionEnergiaEolica();
 };
+
+
+
+
