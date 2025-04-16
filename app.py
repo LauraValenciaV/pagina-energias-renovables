@@ -10,7 +10,7 @@ CORS(app)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 #  ---------------------------------------------- Servicio GET hydropower-consumption.csv ----------------------------------------------
-# Construye la ruta absoluta al archivo CSV
+
 hydropowerConsumption_path = os.path.join(BASE_DIR, 'data', 'hydropower-consumption.csv')
 
 @app.route('/api/consumoHidroenergia')
@@ -107,7 +107,7 @@ def leer_csv_y_limpiar(path):
     df = df.astype(object).where(pd.notnull(df), None)  # reemplaza NaN por None sin usar métodos deprecados
     return df.to_dict(orient='records')
 
-
+# Construye la ruta absoluta al archivo CSV
 @app.route('/api/consumoHidroenergia')
 def consumoHidroenergia():
     path = os.path.join(BASE_DIR, 'data', 'hydropower-consumption.csv')
@@ -178,10 +178,6 @@ def solarEnergyConsumption():
 def windGeneration():
     path = os.path.join(BASE_DIR, 'data', 'wind-generation.csv')
     return jsonify(leer_csv_y_limpiar(path))
-
-
-
-
 
 
 

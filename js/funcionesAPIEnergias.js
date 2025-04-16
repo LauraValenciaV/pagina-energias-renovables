@@ -17,7 +17,9 @@ async function obtenerProduccionBioenergia() {
         const response = await fetch('http://127.0.0.1:5000/api/biofuelProduction');
         const data = await response.json();        
         document.getElementById('resultadoProduccionBioenergia').textContent = "Datos obtenerProduccionBioenergia() convertidos correctamente.";
+        console.log(data)
         return JSON.stringify(data)
+        
     } catch (error) {
         console.error('Error al obtener datos:', error);
     }
