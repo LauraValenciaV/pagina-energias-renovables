@@ -1,4 +1,5 @@
 //------------------------------------------- TOMAR LA FUNCION QUE NECESITE PARA EXTRAER LA INFORMACION DE LA BASE DE DATOS POR MEDIO DEL SERVIDOR ------------------------------------------- 
+// ----------->>>>>>> No olvides conectar el html al jv con la etiquete <script type="module" src="../js/nombreDelDocumento.js"></script>   <<<<<<<-----------
 async function obtenerConsumoHidroenergia() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/consumoHidroenergia');
@@ -16,7 +17,7 @@ async function obtenerProduccionBioenergia() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/biofuelProduction');
         const data = await response.json();        
-        document.getElementById('resultadoProduccionBioenergia').textContent = "Datos obtenerProduccionBioenergia() convertidos correctamente.";
+        document.getElementById('resultadoProduccionBioenergia').textContent = "Datos obtenerProduccionBioenergia() convertidos correctamente.";//OJOOOOOOO aquí hay que identifica el id que tenemos en el html <---.getElementById(TU ID AQUI)
         console.log("obtenerProduccionBioenergia");
         return data;
     } catch (error) {
@@ -28,7 +29,7 @@ async function obtenerCapacidadEolicaInstalada() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/cumulativeInstalledWind');
         const data = await response.json();        
-        document.getElementById('resultadoCapacidadEolicaInstalada').textContent = "Datos obtenerCapacidadEolicaInstalada() convertidos correctamente.";
+        document.getElementById('resultadoCapacidadEolicaInstalada').textContent = "Datos obtenerCapacidadEolicaInstalada() convertidos correctamente.";//OJOOOOOOO aquí hay que identifica el id que tenemos en el html <---.getElementById(TU ID AQUI)
         console.log("obtenerCapacidadEolicaInstalada");
         return data;
     } catch (error) {
@@ -40,7 +41,7 @@ async function obtenerCapacidadGeotermicaInstalada() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/installedGeothermalCapacity');
         const data = await response.json();        
-        document.getElementById('resultadoCapacidadGeotermicaInstalada').textContent = "Datos obtenerCapacidadGeotermicaInstalada() convertidos correctamente.";
+        document.getElementById('resultadoCapacidadGeotermicaInstalada').textContent = "Datos obtenerCapacidadGeotermicaInstalada() convertidos correctamente.";//OJOOOOOOO aquí hay que identifica el id que tenemos en el html <---.getElementById(TU ID AQUI)
         console.log("obtenerCapacidadGeotermicaInstalada");
         return data;
     } catch (error) {
@@ -52,7 +53,7 @@ async function obtenerCapacidadSolarInstalada() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/installedSolarPvCapacity');
         const data = await response.json();        
-        document.getElementById('resultadoCapacidadSolarPvInstalada').textContent = "Datos obtenerCapacidadSolarInstalada() convertidos correctamente.";
+        document.getElementById('resultadoCapacidadSolarPvInstalada').textContent = "Datos obtenerCapacidadSolarInstalada() convertidos correctamente.";//OJOOOOOOO aquí hay que identifica el id que tenemos en el html <---.getElementById(TU ID AQUI)
         console.log("obtenerCapacidadSolarInstalada");
         return data;
     } catch (error) {
@@ -64,7 +65,7 @@ async function obtenerConsumoEnergiaRenovableModerna() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/modernRenewableEnergyConsumption');
         const data = await response.json();        
-        document.getElementById('resultadoCConsumoEnergiaRenovableModerna').textContent = "Datos obtenerConsumoEnergiaRenovableModerna() convertidos correctamente.";
+        document.getElementById('resultadoCConsumoEnergiaRenovableModerna').textContent = "Datos obtenerConsumoEnergiaRenovableModerna() convertidos correctamente.";//OJOOOOOOO aquí hay que identifica el id que tenemos en el html <---.getElementById(TU ID AQUI)
         console.log("obtenerConsumoEnergiaRenovableModerna");
         return data;
     } catch (error) {
@@ -76,7 +77,7 @@ async function obtenerParticipacionElectricidadHidro() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/shareElectricityHydro');
         const data = await response.json();        
-        document.getElementById('resultadoParticipacionElectricidadHidro').textContent = "Datos obtenerParticipacionElectricidadHidro() convertidos correctamente.";
+        document.getElementById('resultadoParticipacionElectricidadHidro').textContent = "Datos obtenerParticipacionElectricidadHidro() convertidos correctamente.";//OJOOOOOOO aquí hay que identifica el id que tenemos en el html <---.getElementById(TU ID AQUI)
         console.log("obtenerParticipacionElectricidadHidro");
         console.log("______________________"); // Esto es para darnos una idea señal en la consola de que se está ejecutando.
         return data;
@@ -89,7 +90,7 @@ async function obtenerParticipacionElectricidadRenovable() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/shareElectricityRenewables');
         const data = await response.json();        
-        document.getElementById('resultadoParticipacionElectricidadRenovable').textContent = "Datos obtenerParticipacionElectricidadRenovable() convertidos correctamente.";
+        document.getElementById('resultadoParticipacionElectricidadRenovable').textContent = "Datos obtenerParticipacionElectricidadRenovable() convertidos correctamente.";//OJOOOOOOO aquí hay que identifica el id que tenemos en el html <---.getElementById(TU ID AQUI)
         console.log("obtenerParticipacionElectricidadRenovable");
         console.log("______________________"); // Esto es para darnos una idea señal en la consola de que se está ejecutando.
         return data;
@@ -102,7 +103,7 @@ async function obtenerParticipacionElectricidadSolar() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/shareElectricitySolar');
         const data = await response.json();        
-        document.getElementById('resultadoParticipacionElectricidadSolar').textContent = "Datos obtenerParticipacionElectricidadSolar() convertidos correctamente.";
+        document.getElementById('resultadoParticipacionElectricidadSolar').textContent = "Datos obtenerParticipacionElectricidadSolar() convertidos correctamente.";//OJOOOOOOO aquí hay que identifica el id que tenemos en el html <---.getElementById(TU ID AQUI)
         console.log("obtenerParticipacionElectricidadSolar");
         console.log("______________________"); // Esto es para darnos una idea señal en la consola de que se está ejecutando.
         return data;
@@ -115,7 +116,7 @@ async function obtenerParticipacionElectricidadEolica() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/shareElectricityWind');
         const data = await response.json();        
-        document.getElementById('resultadoParticipacionElectricidadEolica').textContent = "Datos obtenerParticipacionElectricidadEolica() convertidos correctamente.";
+        document.getElementById('resultadoParticipacionElectricidadEolica').textContent = "Datos obtenerParticipacionElectricidadEolica() convertidos correctamente.";//OJOOOOOOO aquí hay que identifica el id que tenemos en el html <---.getElementById(TU ID AQUI)
         console.log("obtenerParticipacionElectricidadEolica");
         console.log("______________________"); // Esto es para darnos una idea señal en la consola de que se está ejecutando.
         return data;
@@ -128,7 +129,7 @@ async function obtenerConsumoEnergiaSolar() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/solarEnergyConsumption');
         const data = await response.json();        
-        document.getElementById('resultadoConsumoEnergiaSolar').textContent = "Datos obtenerConsumoEnergiaSolar() convertidos correctamente.";
+        document.getElementById('resultadoConsumoEnergiaSolar').textContent = "Datos obtenerConsumoEnergiaSolar() convertidos correctamente.";//OJOOOOOOO aquí hay que identifica el id que tenemos en el html <---.getElementById(TU ID AQUI)
         console.log("obtenerConsumoEnergiaSolar");
         console.log("______________________"); // Esto es para darnos una idea señal en la consola de que se está ejecutando.
         return data;
@@ -141,7 +142,7 @@ async function obtenerGeneracionEnergiaEolica() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/windGeneration');
         const data = await response.json();        
-        document.getElementById('resultadoGeneracionEnergiaEolica').textContent = "Datos obtenerGeneracionEnergiaEolica() convertidos correctamente.";
+        document.getElementById('resultadoGeneracionEnergiaEolica').textContent = "Datos obtenerGeneracionEnergiaEolica() convertidos correctamente.";//OJOOOOOOO aquí hay que identifica el id que tenemos en el html <---.getElementById(TU ID AQUI)
         console.log("obtenerGeneracionEnergiaEolica");
         console.log("______________________"); // Esto es para darnos una idea señal en la consola de que se está ejecutando.
         return data;
@@ -154,7 +155,7 @@ async function obtenerPorcentajeEnergiaRenovable() {
     try {
         const response = await fetch('http://127.0.0.1:5000/api/renewableShareEnergy');
         const data = await response.json();      
-        document.getElementById('resultadoPorcentajeEnergiaRenovable').textContent = "Datos obtenerPorcentajeEnergiaRenovable() convertidos correctamente.";
+        document.getElementById('resultadoPorcentajeEnergiaRenovable').textContent = "Datos obtenerPorcentajeEnergiaRenovable() convertidos correctamente.";//OJOOOOOOO aquí hay que identifica el id que tenemos en el html <---.getElementById(TU ID AQUI)
         console.log("obtenerPorcentajeEnergiaRenovable");
         console.log("______________________"); // Esto es para darnos una idea señal en la consola de que se está ejecutando.
         return data;
