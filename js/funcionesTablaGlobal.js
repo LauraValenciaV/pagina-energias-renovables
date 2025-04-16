@@ -14,9 +14,8 @@ async function obtenerPorcentajeEnergiaRenovable() {
 }
 
 async function trabajarConDatosRenovables() {// Esta función la uso para tomar los datos y construir una tabla con ellos
-    
     const datos = await obtenerPorcentajeEnergiaRenovable();// await: Espero a que se carguen los datos antes de continuar
-    const contenedor = document.getElementById("cuadroDatosRenovables");// Busco el contenedor en mi HTML donde quiero mostrar mi tabla
+    
 
     if (!datos) {// Si los datos no se obtienen bien, muestro un mensaje de error y detengo el resto
         console.error("No se pudo obtener los datos"); 
@@ -35,7 +34,7 @@ async function trabajarConDatosRenovables() {// Esta función la uso para tomar 
 
     tabla += "</table>";
 
-
+    const contenedor = document.getElementById("cuadroDatosRenovables");// Busco el contenedor en mi HTML donde quiero mostrar mi tabla
     if (contenedor) { // Si el contenedor existe, le pongo dentro la tabla que construí
         contenedor.innerHTML = tabla;
     } else {
