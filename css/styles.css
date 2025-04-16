@@ -1,57 +1,195 @@
-* {
+ *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
-  
-  body, html {
-    font-family: Arial, sans-serif;
-    height: 100%;
-  }
-  
-  .navbar {
-    width: 100%;
-    height: 108px;
+
+  body {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 40px;
-    background-color: rgba(0, 20, 42, 0); /* rgba para fondo transparente */
-    color: white;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  main {
+    flex: 1;
+  }
+  
+  .container{
+    margin: auto;
+    font-family: "Inter", sans-serif;
+
+  }
+
+  .container header{
+    height: 100vh;
+    width: 100%;
+
+  }
+  
+   /* nav principal*/
+
+  .wrap-nav{
+    height: 77px;
+    width: auto;
+    background-color: #1e1e1e;
+  }
+
+  .navbar{
+    display: flex;
     position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+    padding: 9px 30px;
+    top: 20px; 
+    left: 20px;
+    right: 20px;
+    z-index: 100;
+    background-color: rgba(51, 55, 59, 0.479);
+    border-radius: 11px;
+    gap: 555px;
+
+  }
+
+  .logo{
+    display: block;
+    padding-left: 20px;
+
   }
   
-  .logo {
-    font-size: 28px;
-    color: #00bfff;
+  .logo img {
+    height: 50px;         
+    width: 50px;
+    object-fit: contain;  
   }
   
-  .nav-links {
+  .nav-links{
     list-style: none;
     display: flex;
-    gap: 120px; 
+    padding-top: 20px;
+    gap: 48px;
   }
   
-  .nav-links li a {
+  .nav-links li a{
     color: white;
     text-decoration: none;
     font-size: 16px;
+    font-weight: 500;
+  }
+
+  .nav-links li a:hover {
+    background-color: white; 
+    color: black;
+    padding: 10px 10px; 
+    border-radius: 11px; 
+    transition: all 0.5s ease; 
   }
   
-  .icons {
+  .icons{
     display: flex;
     gap: 20px;
+    position: relative;
+    right: 20px;
+    top: 15px;
+  }
+
+  .icons a img{
+    height: 26px;         
+    width: 26px;
+    object-fit: fill;
+
+  }
+
+  /* fin del nav*/
+
+  /* slider de imagenes */
+
+  .slider-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    margin: auto;
+    overflow: hidden;
+  }
+
+
+  .slide ul {
+    display: flex;
+    width: 400%; 
+    animation: movimiento 30s infinite; 
+  }
+
+  .slide ul li {
+    width: 100%;
+    list-style: none;
+  }
+
+  .slide ul li img {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+  }
+
+  .slide-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    color: white;
+    text-align: center;
+    padding: 20px 40px;
+    border-radius: 12px;
+  }
+
+  .slide-text h1 {
+    margin-bottom: 20px; 
+    font-size: 50px;
+    letter-spacing: -2px;
+  }
+  .slide-text p{
     font-size: 20px;
-    color: #00bfff;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.938); 
+    line-height: 135%;
   }
   
-  .hero {
+  .slide-button {
+    margin-top: 40px;
+    font-weight: 500;
+    padding: 10px 20px;
+    background: linear-gradient(to right, #F89E37 0%, #DB6600 100%);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .slide-button:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Animación básica del slider */
+  @keyframes movimiento{
+
+    0%{ margin-left: 0%; }
+    20%{ margin-left: 0%; }
+
+    25%{ margin-left: -100%; }
+    45%{ margin-left: -100%; }
+
+    50%{ margin-left: -200%; }
+    70%{ margin-left: -200%; }
+
+    75%{ margin-left: -300%; }
+    95%{ margin-left: -300%; }
+
+    100%{ margin-left: -300%; }
+    
+  }
+  
+  
+  .hero{
     height: 100vh;
-    background-image: url('../assets/images/Fondo.jpg');
-    background-size: cover;
     background-position: center;
     display: flex;
     align-items: center;
@@ -59,7 +197,7 @@
     position: relative;
   }
   
-  .overlay {
+  .overlay{
     text-align: center;
     color: white;
     background-color: rgba(0, 0, 0, 0.3);
@@ -67,17 +205,17 @@
     border-radius: 8px;
   }
   
-  .overlay h1 {
+  .overlay h2{
     font-size: 48px;
     margin-bottom: 20px;
   }
   
-  .overlay p {
+  .overlay p{
     font-size: 18px;
     margin-bottom: 30px;
   }
   
-  .overlay button {
+  .overlay button{
     background-color: black;
     color: white;
     padding: 12px 30px;
@@ -86,3 +224,210 @@
     cursor: pointer;
     border-radius: 6px;
   }
+
+  /* Estilos Footer */
+
+  footer {
+    width: 100%;
+    height: 338px;
+    background-color: #1e1e1e;
+    padding: 0 66px;
+    color: #ccc;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .footer-content {
+    display: flex;
+    padding-top: 55px;
+    padding-bottom: 10px;
+  }
+  
+  .footer-left {
+    flex: 1;
+  }
+  
+  .footer-logo {
+    width: 84px;
+  }
+  
+  .footer-links {
+    flex: 3;
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+  }
+  
+  .footer-column h4 {
+    color: #fff;
+    margin-bottom: 24px;
+    font-size: 14px;
+  }
+  
+  .footer-column ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-column ul li {
+    margin-bottom: 24px;
+    font-size: 14px;
+    color: #888;
+  }
+  
+  .footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20px;
+  }
+  
+  .footer-text {
+    font-size: 11px;
+    line-height: 1.5;
+    max-width: 70%;
+  }
+  
+  .footer-icons {
+    display: flex;
+    gap: 69px;
+  }
+  
+  .footer-icons img {
+    width: 40px;
+    height: 40px;
+  }
+
+/* Contenedor de las tarjetas */
+.tipos-energia {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Dos columnas en pantallas grandes */
+    gap: 40px; /* Espacio entre las tarjetas */
+    max-width: 1200px; /* Limita el tamaño máximo del contenedor */
+    margin: 0 auto; /* Centra el contenedor */
+    padding: 60px 20px; /* Espaciado interior */
+}
+
+/* Estilo para cada tarjeta */
+.card {
+    background-color: #f5f5f5;
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column; /* Organiza los elementos de la tarjeta en columna */
+    justify-content: space-between;
+}
+
+/* Efecto al pasar el ratón sobre la tarjeta */
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Imagen dentro de la tarjeta */
+.card img {
+    width: 100%; /* La imagen ocupa todo el ancho de la tarjeta */
+    max-width: 500px; /* Limita el tamaño máximo de la imagen */
+    height: auto;
+    border-radius: 16px;
+    margin-bottom: 15px;
+}
+
+/* Estilo para el título */
+.card h2 {
+    font-size: 28px;
+    color: rgb(255, 102, 0);
+    margin-bottom: 10px;
+}
+
+/* Párrafos dentro de la tarjeta */
+.card p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Datos curiosos */
+.dato-curioso {
+    font-size: 14px;
+    color: #555;
+    margin-top: 20px;
+}
+
+/* Contenedor de Ventajas y Desventajas */
+.ventajas-desventajas {
+    display: block;  /* Cambiamos a bloque para que todo esté en una sola columna */
+    margin-top: 20px;
+}
+
+/* Cada sección de Ventajas y Desventajas */
+.ventajas-desventajas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    flex-wrap: wrap; /* por si se hace muy angosto en pantallas pequeñas */
+  }
+  
+  .ventajas, .desventajas {
+    flex: 1 1 45%; /* dos columnas de tamaño similar */
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
+  }
+  
+  .ventajas h3, .desventajas h3 {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+    color: rgb(60, 60, 60);
+  }
+  
+  .ventajas ul, .desventajas ul {
+    padding-left: 20px;
+    list-style-type: disc;
+  }
+  
+  .ventajas ul li, .desventajas ul li {
+    margin-bottom: 6px;
+    font-size: 0.95rem;
+  }
+  
+  .explorar-btn {
+    display: inline-block;
+    margin-top: 16px;
+    background-color: rgb(255, 102, 0);
+    color: white;
+    padding: 12px 30px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+ }
+
+ .explorar-btn:hover {
+    background-color: #e65c00;
+    transform: scale(1.1);  /* Aumenta el tamaño del botón */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Añade sombra */
+  }
+
+/* Responsividad: cambia a una sola columna en pantallas pequeñas */
+@media (max-width: 768px) {
+    .tipos-energia {
+        grid-template-columns: 1fr; /* Una columna en pantallas pequeñas */
+    }
+}
