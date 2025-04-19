@@ -45,18 +45,35 @@
 
         <!--conenido main -->
         <main>
-            <section class="hero">
-                <div class="overlay">
-                    <h2>Calcula tu consumo</h2>
-                    <div>
-                        <h3>Ingresa tu consumo anual</h3>
-                        <input> </input>
-                        <button></button>
-                        <h3 id="resultadoParticipacionElectricidadHidro"></h3>
-                    </div>   
+            <section class="calculadora-card-container">
+                <div class="calculadora-card">
+                    <h1>Calculadora de Energía Renovable</h1>
+                    <form id="formulario-energia">
+                        <label for="consumo">Ingrese el consumo eléctrico total anual en kWh:</label>
+                        <input type="number" id="consumo" name="consumo" placeholder="Consumo eléctrico total (kWh)" required>
+                        <button type="submit">Calcular</button>
+                    </form>
+                
+                    <div id="resultados" class="resultados">
+                        <h2>Resultados</h2>
+                        <p id="capacidad">¿Cuánta energía renovable se produjo en Colombia en el 2021?</p>
+                        <div id="resultado" class="resultado-tarjeta">
+                            --  <!-- Aquí se pondrá el resultado dinámicamente -->
+                        </div>
+                        <p id="consumo-renovable">Teniendo en cuenta la producción total de energía renovable en Colombia en 2021, ¿qué porcentaje de esa energía consumiste tú?</p>
+                        <div id="resultado" class="resultado-tarjeta">
+                            --  <!-- Aquí se pondrá el resultado dinámicamente -->
+                        </div>
+                    </div>
                 </div>
+        
+                <!-- Video anclado en la columna de la derecha -->
+                <div class="video-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/O_ra9TdiBxc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>                              
             </section>
         </main>
+        
 
         <!-- Footer -->
         <footer>
