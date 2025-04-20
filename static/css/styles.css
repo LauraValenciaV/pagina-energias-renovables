@@ -524,15 +524,16 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    position: relative;
+    background-image: url('../assets/images/background-dashboard.png');
+    background-size: cover;
+    background-position: center;
+    margin-top: -97px;
   }
   
   .overlay{
     text-align: center;
     color: white;
-    background-color: rgba(0, 0, 0, 0.3);
-    padding: 40px;
-    border-radius: 8px;
+
   }
   
   .overlay h2{
@@ -554,6 +555,84 @@
     cursor: pointer;
     border-radius: 6px;
   }
+
+  /* Estilos Energias */
+
+  .seccion-energia {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding: 50px;
+  }
+  
+  .imagen-energia {
+    width: 50%;
+    height: auto;
+  }
+  
+  .contenido-energia {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 500px;
+  }
+
+  .detalle-energia{
+    margin-bottom: 30px;
+  }
+  
+  .contenido-energia h2 {
+    font-size: 37px;
+    margin-bottom: 30px;
+  }
+  
+  .detalle-energia h4 {
+    margin: 0;
+    font-weight: bold;
+    margin-bottom: 18px;
+  }
+  
+  .detalle-energia p {
+    margin: 5px 0 0 0;
+    color: #444;
+  }
+
+   /* Estilos Graficos */
+
+  .titulo-graficas{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .charts-row {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap; 
+    margin-top: 40px;
+  }
+
+  .chart{
+    flex: 1 1 45%; /* que ocupen aproximadamente la mitad del ancho cada uno */
+    max-width: 600px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    height: 450px;
+    position: relative;
+  }
+
+  .chart .chart_types{
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .chart .chart_types button{
+    padding: 10px 25px;
+  }
+
 
   /* Estilos Footer */
 

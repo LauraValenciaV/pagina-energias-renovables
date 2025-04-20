@@ -1,0 +1,6488 @@
+[
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0.068616726
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0.068616726
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0.06880471
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0.068616726
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0.068616726
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0.068616726
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0.06880471
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0.102925085
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0.102925085
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0.068616726
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0.06880471
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0.068616726
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0.32069764
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0.33128294
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": ""
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.41999254
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0.44839332
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 0.45416325
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 0.5273259
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 3.180501
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 1.1110405
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 1.2481376
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 1.2687395
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 1.2936754
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 1.5134399
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 1.7531116
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 1.7627658
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 1.2300222
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 1.4472462
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 1.4500226
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 1.4330739
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 1.4358858
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0.053206034
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0.106121324
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0.106121324
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0.106121324
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0.10641207
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.106121324
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0.35267234
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 2.007858
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 7.1122904
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 11.965088
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 19.893944
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 25.844816
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 26.502537
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 23.838686
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 30.584423
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 23.461845
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 32.768284
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 36.23187
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 31.703428
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 28.55003
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 16.743961
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 23.779903
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0.9976683
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 1.0823115
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 2.8769584
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 6.5407166
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 6.5983725
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 10.475127
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 17.087872
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 23.5589
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 38.093407
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 39.615303
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 42.821674
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 68.813034
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 81.81848
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 98.085884
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 118.49936
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 98.61999
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 112.54859
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 115.80142
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 152.95209
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 193.86732
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 192.5514
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 209.64064
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0.5353231
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0.32180902
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.32005984
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0.59205866
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 1.1593292
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 1.8793633
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 2.6951258
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 2.1017818
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 2.5427175
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 2.6933994
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 2.845892
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 2.989948
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 2.6403356
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 1.4622647
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 1.2355341
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 1.5035335
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 1.7374654
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 1.4563833
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 1.3404936
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0.073269
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0.080247
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0.089551
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0.101181
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0.067454
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0.130256
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0.141886
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0.153516
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0.165146
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0.181428
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0.21282414
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0.21224265
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0.2653033
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0.31836396
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0.5852664
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.8489706
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 1.2734559
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 2.5759044
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 3.095625
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 4.2849255
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 4.487388
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 4.459111
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 4.459111
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 4.2805
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 3.7563334
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 4.356
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 4.8046665
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 4.4729443
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 4.412322
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 4.4228
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 4.5772223
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 4.82245
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 1.5663052
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 4.2494974
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 4.9068365
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 5.2025642
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 5.10835
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 6.6881804
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 4.4912734
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 4.3256507
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 5.181677
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 4.9355044
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 5.2234054
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 5.4118114
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 5.3970246
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 65.00527
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 72.90802
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 66.798546
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 64.79953
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 71.16422
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 72.528015
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 80.751854
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 88.75702
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 81.04088
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 74.77354
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 61.795197
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 66.34447
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 72.809166
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 83.917046
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 84.634285
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 92.56785
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 102.801834
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 132.91316
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 166.03877
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 163.49847
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 181.3416
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 155.90176
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 159.61436
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 185.37614
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 195.19594
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 209.42525
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 197.13771
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 198.33238
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 238.32605
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 254.90166
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 245.11325
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 233.18593
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 0.07514027
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 0.23475969
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 0.3841703
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 0.30500025
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 0.33200043
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 0.2642092
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 0.2768865
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 0.21853423
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 0.20443296
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 0.2012415
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 0.14124116
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 0.16124128
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 0.16124128
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 0.16080073
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0.57797325
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 1.2613882
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 1.3259386
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 1.3599371
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 1.3599371
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 1.363663
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 1.4959308
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 1.918643
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 5.5999856
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 6.0085735
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 8.729076
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 9.353597
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 11.039007
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 10.829853
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 11.477615
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 13.4386215
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 12.837873
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 13.888556
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 13.8
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 13.919111
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 14.796906
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 13.639054
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 13.440441
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0.053060662
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 1.7684788
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 4.856231
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 5.965346
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 8.368024
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 12.231145
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 13.484257
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 16.731058
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 18.286423
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 17.774601
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 22.119543
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 23.6831
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 26.360819
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 29.27855
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 24.932436
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 23.978706
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 29.046839
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 28.014196
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 33.9185
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 35.785557
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 39.64496
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.17154181
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 1.5707597
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 1.6889794
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 1.7494818
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 3.6427
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 5.2514305
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 6.638568
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 7.279806
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 7.5372925
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 7.8369017
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 8.024199
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 7.8060017
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 7.153719
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 8.93695
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 7.9765263
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 7.4975457
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 8.00661
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0.073269
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0.080247
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0.20241645
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0.5027869
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 1.4007673
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 2.474585
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 3.590217
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 4.5907125
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 4.3727264
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 5.0051155
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 8.130677
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 10.038443
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 13.413471
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 16.929909
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 25.367048
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 34.71126
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 51.120678
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 69.87283
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 90.39917
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 111.11985
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 126.63299
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 124.416046
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 135.19647
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 145.46101
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 158.74876
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 161.1892
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 156.77554
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 177.29817
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 188.44675
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 192.03827
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 187.31323
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 187.36493
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0.073269
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0.080247
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0.20241645
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0.5027869
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 1.4007673
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 2.474585
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 3.590217
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 4.5737877
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 4.3575115
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 4.990824
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 8.11399
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 10.020732
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 13.365415
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 16.802538
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 25.178555
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 34.50463
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 48.07975
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 64.996864
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 86.2143
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 107.94192
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 123.1452
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 121.16336
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 130.64993
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 138.17911
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 153.11957
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 156.19655
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 148.46625
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 165.88875
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 177.43877
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 181.67842
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 177.97523
+  },
+  {
+    "Entity": "European Union (27)",
+    "Code": "",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 178.05312
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 0.43303058
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 0.991635
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 2.6928995
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 3.5050526
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 2.416091
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 3.066077
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 3.844533
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 4.2955194
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 5.011313
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 1.2871335
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 3.6252928
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 3.3016832
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 3.9501984
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 3.5324442
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 3.3617778
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0.02624891
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0.2923782
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0.94942665
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 1.8613815
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 2.678552
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 3.2066004
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 2.9976673
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 3.1512532
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 3.7758656
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 3.7668989
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 4.034773
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 4.430088
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 4.643859
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 7.501699
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 7.866113
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 13.113837
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 24.178932
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 27.055717
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 26.374874
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 26.244072
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 30.628035
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 28.553371
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 28.88099
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 30.707294
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 28.094324
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 27.349375
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 31.01172
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 28.762793
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 26.882746
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 29.719494
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0.05167209
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0.05167209
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0.28933114
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0.36166975
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0.5683348
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0.9300046
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 1.0333371
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 1.3433348
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 2.583337
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 3.6166625
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 5.6833367
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 6.912907
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 10.579198
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 16.176365
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 26.60217
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 33.02326
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 29.390696
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 29.409874
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 36.448257
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 35.813656
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 33.560238
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 35.74399
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 39.94682
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 36.827896
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 37.246746
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 38.017643
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 39.05974
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 40.795673
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 39.174717
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 33.663513
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0.9976683
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 1.0292509
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 1.0978676
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 1.1321759
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0.22170524
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.915697
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0.82633024
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 1.1078415
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 1.7061033
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 1.3065449
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 2.1186633
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 3.0859625
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 2.9523406
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 2.8032334
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 3.0561516
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 6.019033
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 7.3420486
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 6.7121634
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 11.499806
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 12.969542
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 14.492524
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 23.029203
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.10277778
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0.5138889
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 2.5254989
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 5.1463323
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 1.7491089
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 2.2396321
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 16.585945
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 20.319767
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 25.659632
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 36.324234
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 14.81855
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 33.429016
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 31.23455
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 56.397747
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 76.79713
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 78.586044
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 86.639626
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 2.9394476
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 2.055556
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 2.2919474
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 2.076106
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 7.279287
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 8.685807
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 9.046453
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 6.8204136
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 3.6217332
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 5.3124213
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 5.963248
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 6.0315504
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 6.093992
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 7.311641
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 7.8877335
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 9.075994
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 12.99235
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 12.720147
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0.08901826
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0.09906963
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0.08144012
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 0.1359678
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 0.13005614
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 0.14187948
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 0.15412393
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 0.16552618
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 0.17734952
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 0.18917254
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 0.17783542
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 0.17734952
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 0.17734952
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 0.17734952
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 0.17783542
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 0.17734952
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0.06880471
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.034308363
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0.27188888
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 0.94805557
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 0.9051667
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 2.816111
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 4.511413
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 7.6950274
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 14.698286
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 17.213945
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 20.73037
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 22.236095
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 17.631695
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 22.954887
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 22.21222
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 23.55426
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 23.334732
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 23.511585
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 65.880745
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 73.76861
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 67.61646
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 65.46439
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 71.78242
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 73.09291
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 81.28529
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 89.2812
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 81.490585
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 75.23713
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 63.295094
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 67.96473
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 77.49118
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 92.03907
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 93.01503
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 104.845245
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 122.93111
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 161.24913
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 214.10115
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 215.97638
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 242.44206
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 250.53322
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 267.75415
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 308.51047
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 345.69614
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 333.18622
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 346.83438
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 354.91745
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 425.4705
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 481.7521
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 459.27835
+  },
+  {
+    "Entity": "Non-OECD (BP)",
+    "Code": "",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 471.63907
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 16.732742
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 19.388733
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 22.044724
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 25.833727
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 28.846283
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 30.384048
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 21.78628
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 28.832184
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 31.444319
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 33.364548
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 37.569035
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 41.127224
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 49.619167
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 64.61444
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 78.52306
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 92.01743
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 119.898056
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 168.49942
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 237.81534
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 271.37283
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 318.8539
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 356.2605
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 340.93863
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 356.02264
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 378.02682
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 387.9511
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 413.1226
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 425.7172
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 438.3592
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 427.61838
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 388.22733
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 412.28738
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 16.806011
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 19.468979
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 22.247139
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 26.336514
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 30.24705
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 32.858635
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 25.376497
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 33.422894
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 35.817043
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 38.369663
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 45.69971
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 51.16567
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 63.132267
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 82.302795
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 104.41975
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 127.448685
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 173.68736
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 241.87306
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 333.14224
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 390.94986
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 456.31482
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 492.24103
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 488.51578
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 513.6079
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 549.7432
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 562.31067
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 581.39667
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 613.21405
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 641.7145
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 632.7362
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 587.36597
+  },
+  {
+    "Entity": "OECD (BP)",
+    "Code": "",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 611.9681
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0.34308362
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0.06880471
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 1.3228952
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 1.7473805
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 1.1637132
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 3.3347955
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 4.6976676
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 5.041024
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 4.7568064
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 7.505673
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 8.021459
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 8.657343
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 9.3839445
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 10.681111
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 10.640031
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 10.500066
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 11.371845
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 11.306277
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 12.020443
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.010612133
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0.81772375
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 1.8858278
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 1.7329049
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 2.6254027
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 3.3028038
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 3.841075
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 3.2053094
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 3.1913302
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 3.503142
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 3.729485
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 3.4632163
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 3.6766036
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 3.8038125
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 4.111519
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 3.4916983
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 3.3810525
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0.010612133
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0.01686995
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0.053947262
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.13318573
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0.53019184
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 0.9665246
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 2.0659764
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 2.956218
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 4.14984
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 3.908308
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 4.185823
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 4.292412
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 4.5089393
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 5.1328425
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 5.15045
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 4.978256
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 7.9460115
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 8.137662
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 8.0241995
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 9.013269
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 65.812126
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 73.69999
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 67.54766
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 65.395775
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 71.713806
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 73.02429
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 81.216484
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 89.17827
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 81.387665
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 75.16851
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 62.22862
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 66.813805
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 74.30414
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 85.82644
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 86.49942
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 94.67012
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 108.06346
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 140.73686
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 180.33301
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 181.26701
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 208.82304
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 191.58966
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 196.5615
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 220.82544
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 238.19676
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 245.57578
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 243.63928
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 247.70607
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 285.6611
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 299.17575
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 276.7802
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 272.54016
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0.85129654
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0.8489706
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 1.4820771
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 2.090464
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 2.546627
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 3.4133594
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 3.0383132
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 4.2587085
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 4.3520007
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 10.473661
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 11.731279
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 9.744389
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 7.081611
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 8.566667
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 11.827222
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 12.883056
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 13.852011
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 21.54365
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 25.122383
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 24.21578
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 20.759722
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 19.984388
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0.16962355
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0.37980092
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 1.0517358
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 1.9810077
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.41834274
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0.47564375
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 0.57034683
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 1.540661
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 2.1265106
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 2.411469
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 2.2329483
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 2.6494768
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 2.646395
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 2.6483138
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 2.544423
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 2.4066656
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 2.1583188
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 4.238693
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 5.001016
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 4.891601
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 7.1293397
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0.034402356
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.623943
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 0.9670266
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 1.6659788
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 6.0350504
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 7.4379945
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 9.69942
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 10.68797
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 14.64217
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 18.71267
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 20.92237
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 22.57383
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 20.25946
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 22.43427
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 24.55093
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 27.45843
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 27.65614
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 24.957928
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 0.031836398
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 0.106121324
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 0.10641207
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 0.09173744
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 2.6513376
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 4.5208836
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 3.3232377
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 2.5000198
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 3.268623
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 2.0225036
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 3.48272
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 5.859822
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 4.529478
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 3.5043516
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 6.3051696
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 8.639752
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 7.972656
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 6.818681
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 6.4753766
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 6.313379
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 16.732742
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 19.388733
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 22.044724
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 25.833727
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 28.846283
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 30.384048
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 21.78628
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 28.832184
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 31.444319
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 32.786575
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 36.307648
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 39.801285
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 48.259228
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 63.254505
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 77.1594
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 90.5215
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 117.979416
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 162.89944
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 231.80676
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 262.64377
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 309.5003
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 345.2215
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 330.10876
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 344.545
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 364.5882
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 375.11325
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 399.23404
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 411.9172
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 424.44006
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 412.82147
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 374.58826
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 398.84695
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1990,
+    "BiofuelsProductionTWhTotal": 82.68676
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1991,
+    "BiofuelsProductionTWhTotal": 93.23759
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1992,
+    "BiofuelsProductionTWhTotal": 89.8636
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1993,
+    "BiofuelsProductionTWhTotal": 91.8009
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1994,
+    "BiofuelsProductionTWhTotal": 102.02947
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1995,
+    "BiofuelsProductionTWhTotal": 105.951546
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1996,
+    "BiofuelsProductionTWhTotal": 106.66179
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1997,
+    "BiofuelsProductionTWhTotal": 122.70409
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1998,
+    "BiofuelsProductionTWhTotal": 117.30763
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1999,
+    "BiofuelsProductionTWhTotal": 113.60679
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2000,
+    "BiofuelsProductionTWhTotal": 108.994804
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2001,
+    "BiofuelsProductionTWhTotal": 119.1304
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2002,
+    "BiofuelsProductionTWhTotal": 140.62344
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2003,
+    "BiofuelsProductionTWhTotal": 174.34186
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2004,
+    "BiofuelsProductionTWhTotal": 197.43477
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2005,
+    "BiofuelsProductionTWhTotal": 232.29393
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2006,
+    "BiofuelsProductionTWhTotal": 296.61847
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2007,
+    "BiofuelsProductionTWhTotal": 403.1222
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2008,
+    "BiofuelsProductionTWhTotal": 547.2434
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2009,
+    "BiofuelsProductionTWhTotal": 606.9262
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2010,
+    "BiofuelsProductionTWhTotal": 698.7569
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2011,
+    "BiofuelsProductionTWhTotal": 742.77423
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2012,
+    "BiofuelsProductionTWhTotal": 756.26996
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2013,
+    "BiofuelsProductionTWhTotal": 822.1184
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2014,
+    "BiofuelsProductionTWhTotal": 895.4394
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2015,
+    "BiofuelsProductionTWhTotal": 895.4969
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2016,
+    "BiofuelsProductionTWhTotal": 928.231
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2017,
+    "BiofuelsProductionTWhTotal": 968.1315
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2018,
+    "BiofuelsProductionTWhTotal": 1067.1849
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2019,
+    "BiofuelsProductionTWhTotal": 1114.4883
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2020,
+    "BiofuelsProductionTWhTotal": 1046.6443
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2021,
+    "BiofuelsProductionTWhTotal": 1083.6072
+  }
+]
