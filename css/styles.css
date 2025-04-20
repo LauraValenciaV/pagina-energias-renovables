@@ -426,9 +426,45 @@
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Añade sombra */
   }
 
+
+  /*---------------------------------- Estilos ventana tabla global energias renovables ----------------------------------*/
+  select {
+    /* Reset */
+    appearance: none;
+    border: 0;
+    outline: 0;
+    font: inherit;
+    /* Personalize */
+    width: 20rem;
+    padding: 1rem 4rem 1rem 1rem;
+    background: var(--arrow-icon) no-repeat right 0.8em center / 1.4em,
+      linear-gradient(to left, var(--arrow-bg) 3em, var(--select-bg) 3em);
+    color: white;
+    border-radius: 0.25em;
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    /* Remove IE arrow */
+    &::-ms-expand {
+      display: none;
+    }
+    /* Remove focus outline */
+    &:focus {
+      outline: none;
+    }
+    /* <option> colors */
+    option {
+      color: inherit;
+      background-color: var(--option-bg);
+    }
+  }
+  
 /* Responsividad: cambia a una sola columna en pantallas pequeñas */
 @media (max-width: 768px) {
     .tipos-energia {
         grid-template-columns: 1fr; /* Una columna en pantallas pequeñas */
     }
 }
+
+
+
+
