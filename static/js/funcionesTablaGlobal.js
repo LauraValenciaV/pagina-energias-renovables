@@ -17,12 +17,19 @@ async function inicializarSelectConEntities() {
         return;
     }
 
-    // Saca los 'Entity' únicos del array
     const entitiesUnicos = [...new Set(datos.map(d => d.Entity))].sort();
-
     const selector = document.getElementById("selectorEntity");
 
-    // Inserta una opción por cada entidad encontrada
+    // Limpia el select por si se reinicia
+    selector.innerHTML = "";
+
+    // Opción por defecto
+    const opcionDefault = document.createElement("option");
+    opcionDefault.value = "";
+    opcionDefault.textContent = "Selecciona un país o continente...";
+    selector.appendChild(opcionDefault);
+
+    // Agrega las opciones reales
     entitiesUnicos.forEach(entity => {
         const opcion = document.createElement("option");
         opcion.value = entity;
@@ -30,22 +37,28 @@ async function inicializarSelectConEntities() {
         selector.appendChild(opcion);
     });
 
-    // Evento para cuando el usuario selecciona uno
+    // Evento de cambio
     selector.addEventListener("change", function () {
         const entitySeleccionado = selector.value;
-        if (entitySeleccionado) {
-            mostrarDatosPorEntity(entitySeleccionado, datos);
-        } else {
+
+        // Limpia resultados si no se selecciona nada
+        if (!entitySeleccionado) {
             document.getElementById("cuadroDatosEntity").innerHTML = "";
+            return;
         }
+
+        mostrarDatosPorEntity(entitySeleccionado, datos);
     });
 }
 
 function mostrarDatosPorEntity(entitySeleccionado, datos) {
     const datosFiltrados = datos.filter(d => d.Entity === entitySeleccionado);
 
+    const contenedor = document.getElementById("cuadroDatosEntity");
+    contenedor.innerHTML = ""; // Limpia antes de mostrar nuevos datos
+
     if (datosFiltrados.length === 0) {
-        document.getElementById("cuadroDatosEntity").innerHTML = "<p>No se encontraron datos.</p>";
+        contenedor.innerHTML = "<p>No se encontraron datos.</p>";
         return;
     }
 
@@ -58,7 +71,7 @@ function mostrarDatosPorEntity(entitySeleccionado, datos) {
     });
     tabla += "</table>";
 
-    document.getElementById("cuadroDatosEntity").innerHTML = tabla;
+    contenedor.innerHTML = tabla;
 }
 
 window.onload = () => {
