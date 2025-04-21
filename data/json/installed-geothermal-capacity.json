@@ -1,0 +1,4550 @@
+[
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 1990,
+    "Geothermal Capacity": 45
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 1995,
+    "Geothermal Capacity": 45
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2000,
+    "Geothermal Capacity": 65.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2001,
+    "Geothermal Capacity": 65.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2002,
+    "Geothermal Capacity": 65.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2003,
+    "Geothermal Capacity": 65.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2004,
+    "Geothermal Capacity": 135.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2005,
+    "Geothermal Capacity": 135.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2006,
+    "Geothermal Capacity": 135.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2007,
+    "Geothermal Capacity": 135.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2008,
+    "Geothermal Capacity": 135.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2009,
+    "Geothermal Capacity": 170.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2010,
+    "Geothermal Capacity": 205.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2011,
+    "Geothermal Capacity": 205.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2012,
+    "Geothermal Capacity": 212.8
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2013,
+    "Geothermal Capacity": 212.8
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2014,
+    "Geothermal Capacity": 373.4
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2015,
+    "Geothermal Capacity": 611.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2016,
+    "Geothermal Capacity": 645.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2017,
+    "Geothermal Capacity": 655.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2018,
+    "Geothermal Capacity": 671.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2019,
+    "Geothermal Capacity": 831.3
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2020,
+    "Geothermal Capacity": 831
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 1990,
+    "Geothermal Capacity": 1393.4
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 1995,
+    "Geothermal Capacity": 1859.5
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2000,
+    "Geothermal Capacity": 3344.7
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2001,
+    "Geothermal Capacity": 3603.7
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2002,
+    "Geothermal Capacity": 3559.7
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2003,
+    "Geothermal Capacity": 3592.6
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2004,
+    "Geothermal Capacity": 3607.6
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2005,
+    "Geothermal Capacity": 3722.7
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2006,
+    "Geothermal Capacity": 3719.6
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2007,
+    "Geothermal Capacity": 3887.6
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2008,
+    "Geothermal Capacity": 4104.7
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2009,
+    "Geothermal Capacity": 4284.7
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2010,
+    "Geothermal Capacity": 4384
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2011,
+    "Geothermal Capacity": 4417.7
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2012,
+    "Geothermal Capacity": 4502.7
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2013,
+    "Geothermal Capacity": 4582
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2014,
+    "Geothermal Capacity": 4833.549999999999
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2015,
+    "Geothermal Capacity": 4892.85
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2016,
+    "Geothermal Capacity": 4997.85
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2017,
+    "Geothermal Capacity": 5227.85
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2018,
+    "Geothermal Capacity": 5391.85
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2019,
+    "Geothermal Capacity": 5617.6
+  },
+  {
+    "Entity": "Asia Pacific",
+    "Code": "",
+    "Year": 2020,
+    "Geothermal Capacity": 5650
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2000,
+    "Geothermal Capacity": 23
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2001,
+    "Geothermal Capacity": 21
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2002,
+    "Geothermal Capacity": 70
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2003,
+    "Geothermal Capacity": 70
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2004,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2005,
+    "Geothermal Capacity": 79
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2006,
+    "Geothermal Capacity": 87
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2007,
+    "Geothermal Capacity": 90
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2008,
+    "Geothermal Capacity": 80
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2009,
+    "Geothermal Capacity": 81
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2010,
+    "Geothermal Capacity": 81
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2011,
+    "Geothermal Capacity": 81
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2012,
+    "Geothermal Capacity": 81
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2013,
+    "Geothermal Capacity": 79
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2014,
+    "Geothermal Capacity": 78
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2015,
+    "Geothermal Capacity": 78
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2016,
+    "Geothermal Capacity": 78
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2017,
+    "Geothermal Capacity": 78
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2018,
+    "Geothermal Capacity": 78
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2019,
+    "Geothermal Capacity": 74
+  },
+  {
+    "Entity": "CIS",
+    "Code": "",
+    "Year": 2020,
+    "Geothermal Capacity": 74
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 1990,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 1995,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2000,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2001,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2002,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2003,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2004,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2005,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2006,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2007,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2008,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2009,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2010,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2011,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2012,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2013,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2014,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2015,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2016,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2017,
+    "Geothermal Capacity": 24
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2018,
+    "Geothermal Capacity": 48
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2019,
+    "Geothermal Capacity": 39.7
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2020,
+    "Geothermal Capacity": 40
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1990,
+    "Geothermal Capacity": 29.3
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1995,
+    "Geothermal Capacity": 26.3
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2000,
+    "Geothermal Capacity": 21.7
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2001,
+    "Geothermal Capacity": 21.7
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2002,
+    "Geothermal Capacity": 21.7
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2003,
+    "Geothermal Capacity": 21.7
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2004,
+    "Geothermal Capacity": 21.7
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2005,
+    "Geothermal Capacity": 21.7
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2006,
+    "Geothermal Capacity": 21.7
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2007,
+    "Geothermal Capacity": 21.7
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2008,
+    "Geothermal Capacity": 24.8
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2009,
+    "Geothermal Capacity": 24.8
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2010,
+    "Geothermal Capacity": 24.1
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2011,
+    "Geothermal Capacity": 26.2
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2012,
+    "Geothermal Capacity": 26.2
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2013,
+    "Geothermal Capacity": 26
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2014,
+    "Geothermal Capacity": 25.95
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2015,
+    "Geothermal Capacity": 25.75
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2016,
+    "Geothermal Capacity": 25.75
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2017,
+    "Geothermal Capacity": 25.75
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2018,
+    "Geothermal Capacity": 25.75
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2019,
+    "Geothermal Capacity": 26
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2020,
+    "Geothermal Capacity": 26
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 1990,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 1995,
+    "Geothermal Capacity": 55
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2000,
+    "Geothermal Capacity": 145
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2001,
+    "Geothermal Capacity": 145
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2002,
+    "Geothermal Capacity": 144.7
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2003,
+    "Geothermal Capacity": 162.7
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2004,
+    "Geothermal Capacity": 165.7
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2005,
+    "Geothermal Capacity": 165.7
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2006,
+    "Geothermal Capacity": 165.7
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2007,
+    "Geothermal Capacity": 165.7
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2008,
+    "Geothermal Capacity": 165.7
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2009,
+    "Geothermal Capacity": 165.7
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2010,
+    "Geothermal Capacity": 165.7
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2011,
+    "Geothermal Capacity": 217.5
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2012,
+    "Geothermal Capacity": 217.5
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2013,
+    "Geothermal Capacity": 217.5
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2014,
+    "Geothermal Capacity": 217.5
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2015,
+    "Geothermal Capacity": 217.36
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2016,
+    "Geothermal Capacity": 206.86
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2017,
+    "Geothermal Capacity": 206.86
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2018,
+    "Geothermal Capacity": 206.86
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2019,
+    "Geothermal Capacity": 261.86
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2020,
+    "Geothermal Capacity": 262
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 1990,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 1995,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2000,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2001,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2002,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2003,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2004,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2005,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2006,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2007,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2008,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2009,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2010,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2011,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2012,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2013,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2014,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2015,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2016,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2017,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2018,
+    "Geothermal Capacity": 10
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2019,
+    "Geothermal Capacity": 10
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2020,
+    "Geothermal Capacity": 10
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 1990,
+    "Geothermal Capacity": 95
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 1995,
+    "Geothermal Capacity": 105
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2000,
+    "Geothermal Capacity": 161.2
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2001,
+    "Geothermal Capacity": 161.2
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2002,
+    "Geothermal Capacity": 161.2
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2003,
+    "Geothermal Capacity": 161.2
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2004,
+    "Geothermal Capacity": 151.2
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2005,
+    "Geothermal Capacity": 151.2
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2006,
+    "Geothermal Capacity": 151.2
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2007,
+    "Geothermal Capacity": 204.4
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2008,
+    "Geothermal Capacity": 204.4
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2009,
+    "Geothermal Capacity": 204.4
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2010,
+    "Geothermal Capacity": 204.4
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2011,
+    "Geothermal Capacity": 204
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2012,
+    "Geothermal Capacity": 204.4
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2013,
+    "Geothermal Capacity": 204.4
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2014,
+    "Geothermal Capacity": 204.4
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2015,
+    "Geothermal Capacity": 204.4
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2016,
+    "Geothermal Capacity": 204.4
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2017,
+    "Geothermal Capacity": 204.4
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2018,
+    "Geothermal Capacity": 204.4
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2019,
+    "Geothermal Capacity": 204.4
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2020,
+    "Geothermal Capacity": 204
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 1990,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 1995,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2000,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2001,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2002,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2003,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2004,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2005,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2006,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2007,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2008,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2009,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2010,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2011,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2012,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2013,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2014,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2015,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2016,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2017,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2018,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2019,
+    "Geothermal Capacity": 7.3
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2020,
+    "Geothermal Capacity": 7
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 1990,
+    "Geothermal Capacity": 617.6
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 1995,
+    "Geothermal Capacity": 710.9
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2000,
+    "Geothermal Capacity": 794
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2001,
+    "Geothermal Capacity": 807
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2002,
+    "Geothermal Capacity": 902
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2003,
+    "Geothermal Capacity": 940
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2004,
+    "Geothermal Capacity": 875.2
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2005,
+    "Geothermal Capacity": 933.1
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2006,
+    "Geothermal Capacity": 1142.1
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2007,
+    "Geothermal Capacity": 1207.9
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2008,
+    "Geothermal Capacity": 1304.9
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2009,
+    "Geothermal Capacity": 1380.9
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2010,
+    "Geothermal Capacity": 1430.9
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2011,
+    "Geothermal Capacity": 1555.2
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2012,
+    "Geothermal Capacity": 1612.2
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2013,
+    "Geothermal Capacity": 1773.2
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2014,
+    "Geothermal Capacity": 1909.265
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2015,
+    "Geothermal Capacity": 2128.2650000000003
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2016,
+    "Geothermal Capacity": 2327.484
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2017,
+    "Geothermal Capacity": 2621.855
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2018,
+    "Geothermal Capacity": 2899.655
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2019,
+    "Geothermal Capacity": 3136.665
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2020,
+    "Geothermal Capacity": 3265
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1990,
+    "Geothermal Capacity": 4.2
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1995,
+    "Geothermal Capacity": 4.2
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2000,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2001,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2002,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2003,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2004,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2005,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2006,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2007,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2008,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2009,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2010,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2011,
+    "Geothermal Capacity": 16.3
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2012,
+    "Geothermal Capacity": 15.3
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2013,
+    "Geothermal Capacity": 16.3
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2014,
+    "Geothermal Capacity": 16.3
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2015,
+    "Geothermal Capacity": 16.3
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2016,
+    "Geothermal Capacity": 15.51
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2017,
+    "Geothermal Capacity": 15.9
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2018,
+    "Geothermal Capacity": 15.9
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2019,
+    "Geothermal Capacity": 15.9
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2020,
+    "Geothermal Capacity": 16
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1990,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1995,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2000,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2001,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2002,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2003,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2004,
+    "Geothermal Capacity": 0.2
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2005,
+    "Geothermal Capacity": 0.2
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2006,
+    "Geothermal Capacity": 0.2
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2007,
+    "Geothermal Capacity": 3
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2008,
+    "Geothermal Capacity": 3
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2009,
+    "Geothermal Capacity": 8
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2010,
+    "Geothermal Capacity": 8
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2011,
+    "Geothermal Capacity": 6
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2012,
+    "Geothermal Capacity": 16
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2013,
+    "Geothermal Capacity": 26
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2014,
+    "Geothermal Capacity": 29
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2015,
+    "Geothermal Capacity": 29
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2016,
+    "Geothermal Capacity": 33
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2017,
+    "Geothermal Capacity": 32
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2018,
+    "Geothermal Capacity": 35
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2019,
+    "Geothermal Capacity": 40
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2020,
+    "Geothermal Capacity": 40
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 1990,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 1995,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2000,
+    "Geothermal Capacity": 29
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2001,
+    "Geothermal Capacity": 29
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2002,
+    "Geothermal Capacity": 29
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2003,
+    "Geothermal Capacity": 29
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2004,
+    "Geothermal Capacity": 29
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2005,
+    "Geothermal Capacity": 29
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2006,
+    "Geothermal Capacity": 54.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2007,
+    "Geothermal Capacity": 54.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2008,
+    "Geothermal Capacity": 54.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2009,
+    "Geothermal Capacity": 54.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2010,
+    "Geothermal Capacity": 54.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2011,
+    "Geothermal Capacity": 54.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2012,
+    "Geothermal Capacity": 54.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2013,
+    "Geothermal Capacity": 49.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2014,
+    "Geothermal Capacity": 49.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2015,
+    "Geothermal Capacity": 49.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2016,
+    "Geothermal Capacity": 49.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2017,
+    "Geothermal Capacity": 49.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2018,
+    "Geothermal Capacity": 49.2
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2019,
+    "Geothermal Capacity": 52
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2020,
+    "Geothermal Capacity": 49
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 1990,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 1995,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2000,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2001,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2002,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2003,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2004,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2005,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2006,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2007,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2008,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2009,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2010,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2011,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2012,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2013,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2014,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2015,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2016,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2017,
+    "Geothermal Capacity": 35
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2018,
+    "Geothermal Capacity": 35
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2019,
+    "Geothermal Capacity": 35
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2020,
+    "Geothermal Capacity": 39
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 1990,
+    "Geothermal Capacity": 44.8
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 1995,
+    "Geothermal Capacity": 49.6
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2000,
+    "Geothermal Capacity": 172
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2001,
+    "Geothermal Capacity": 202
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2002,
+    "Geothermal Capacity": 202
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2003,
+    "Geothermal Capacity": 202
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2004,
+    "Geothermal Capacity": 202
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2005,
+    "Geothermal Capacity": 232
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2006,
+    "Geothermal Capacity": 422
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2007,
+    "Geothermal Capacity": 485
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2008,
+    "Geothermal Capacity": 575
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2009,
+    "Geothermal Capacity": 575
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2010,
+    "Geothermal Capacity": 575
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2011,
+    "Geothermal Capacity": 665
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2012,
+    "Geothermal Capacity": 665
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2013,
+    "Geothermal Capacity": 665
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2014,
+    "Geothermal Capacity": 665
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2015,
+    "Geothermal Capacity": 665
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2016,
+    "Geothermal Capacity": 665
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2017,
+    "Geothermal Capacity": 710
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2018,
+    "Geothermal Capacity": 756
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2019,
+    "Geothermal Capacity": 756
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2020,
+    "Geothermal Capacity": 756
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2000,
+    "Geothermal Capacity": 525
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2001,
+    "Geothermal Capacity": 785
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2002,
+    "Geothermal Capacity": 785
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2003,
+    "Geothermal Capacity": 805
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2004,
+    "Geothermal Capacity": 820
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2005,
+    "Geothermal Capacity": 850
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2006,
+    "Geothermal Capacity": 850
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2007,
+    "Geothermal Capacity": 980
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2008,
+    "Geothermal Capacity": 1052
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2009,
+    "Geothermal Capacity": 1189
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2010,
+    "Geothermal Capacity": 1189
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2011,
+    "Geothermal Capacity": 1226
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2012,
+    "Geothermal Capacity": 1336
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2013,
+    "Geothermal Capacity": 1343.5
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2014,
+    "Geothermal Capacity": 1403.5
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2015,
+    "Geothermal Capacity": 1438
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2016,
+    "Geothermal Capacity": 1533
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2017,
+    "Geothermal Capacity": 1808
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2018,
+    "Geothermal Capacity": 1948
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2019,
+    "Geothermal Capacity": 2130.5
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2020,
+    "Geothermal Capacity": 2131
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1990,
+    "Geothermal Capacity": 545
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1995,
+    "Geothermal Capacity": 631.7
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2000,
+    "Geothermal Capacity": 590
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2001,
+    "Geothermal Capacity": 573
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2002,
+    "Geothermal Capacity": 666
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2003,
+    "Geothermal Capacity": 707
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2004,
+    "Geothermal Capacity": 642
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2005,
+    "Geothermal Capacity": 671
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2006,
+    "Geothermal Capacity": 671
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2007,
+    "Geothermal Capacity": 671
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2008,
+    "Geothermal Capacity": 671
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2009,
+    "Geothermal Capacity": 695
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2010,
+    "Geothermal Capacity": 728
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2011,
+    "Geothermal Capacity": 728
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2012,
+    "Geothermal Capacity": 728
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2013,
+    "Geothermal Capacity": 729
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2014,
+    "Geothermal Capacity": 768
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2015,
+    "Geothermal Capacity": 768
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2016,
+    "Geothermal Capacity": 767
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2017,
+    "Geothermal Capacity": 767.19
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2018,
+    "Geothermal Capacity": 767.19
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2019,
+    "Geothermal Capacity": 767
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2020,
+    "Geothermal Capacity": 797
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 1990,
+    "Geothermal Capacity": 214.6
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 1995,
+    "Geothermal Capacity": 413.7
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2000,
+    "Geothermal Capacity": 533
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2001,
+    "Geothermal Capacity": 533
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2002,
+    "Geothermal Capacity": 533
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2003,
+    "Geothermal Capacity": 535
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2004,
+    "Geothermal Capacity": 535
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2005,
+    "Geothermal Capacity": 535
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2006,
+    "Geothermal Capacity": 532
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2007,
+    "Geothermal Capacity": 532
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2008,
+    "Geothermal Capacity": 532
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2009,
+    "Geothermal Capacity": 535
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2010,
+    "Geothermal Capacity": 537
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2011,
+    "Geothermal Capacity": 537
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2012,
+    "Geothermal Capacity": 512
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2013,
+    "Geothermal Capacity": 512
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2014,
+    "Geothermal Capacity": 508
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2015,
+    "Geothermal Capacity": 516
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2016,
+    "Geothermal Capacity": 526
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2017,
+    "Geothermal Capacity": 481
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2018,
+    "Geothermal Capacity": 482
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2019,
+    "Geothermal Capacity": 525
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2020,
+    "Geothermal Capacity": 525
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 1990,
+    "Geothermal Capacity": 45
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 1995,
+    "Geothermal Capacity": 45
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2000,
+    "Geothermal Capacity": 58
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2001,
+    "Geothermal Capacity": 58
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2002,
+    "Geothermal Capacity": 58
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2003,
+    "Geothermal Capacity": 58
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2004,
+    "Geothermal Capacity": 128
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2005,
+    "Geothermal Capacity": 128
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2006,
+    "Geothermal Capacity": 128
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2007,
+    "Geothermal Capacity": 128
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2008,
+    "Geothermal Capacity": 128
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2009,
+    "Geothermal Capacity": 163
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2010,
+    "Geothermal Capacity": 198
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2011,
+    "Geothermal Capacity": 198
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2012,
+    "Geothermal Capacity": 205.5
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2013,
+    "Geothermal Capacity": 205.5
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2014,
+    "Geothermal Capacity": 366.1
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2015,
+    "Geothermal Capacity": 604
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2016,
+    "Geothermal Capacity": 638
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2017,
+    "Geothermal Capacity": 648
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2018,
+    "Geothermal Capacity": 664
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2019,
+    "Geothermal Capacity": 824
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2020,
+    "Geothermal Capacity": 824
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1990,
+    "Geothermal Capacity": 743
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1995,
+    "Geothermal Capacity": 743
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2000,
+    "Geothermal Capacity": 855
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2001,
+    "Geothermal Capacity": 838
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2002,
+    "Geothermal Capacity": 843
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2003,
+    "Geothermal Capacity": 960
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2004,
+    "Geothermal Capacity": 960
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2005,
+    "Geothermal Capacity": 960
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2006,
+    "Geothermal Capacity": 960
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2007,
+    "Geothermal Capacity": 960
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2008,
+    "Geothermal Capacity": 963
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2009,
+    "Geothermal Capacity": 965
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2010,
+    "Geothermal Capacity": 965
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2011,
+    "Geothermal Capacity": 887
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2012,
+    "Geothermal Capacity": 824
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2013,
+    "Geothermal Capacity": 823
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2014,
+    "Geothermal Capacity": 813
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2015,
+    "Geothermal Capacity": 906
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2016,
+    "Geothermal Capacity": 926
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2017,
+    "Geothermal Capacity": 925.7
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2018,
+    "Geothermal Capacity": 950.6
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2019,
+    "Geothermal Capacity": 935.6
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2020,
+    "Geothermal Capacity": 906
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 1990,
+    "Geothermal Capacity": 261
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 1995,
+    "Geothermal Capacity": 265
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2000,
+    "Geothermal Capacity": 418
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2001,
+    "Geothermal Capacity": 417
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2002,
+    "Geothermal Capacity": 373
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2003,
+    "Geothermal Capacity": 378
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2004,
+    "Geothermal Capacity": 378
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2005,
+    "Geothermal Capacity": 433
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2006,
+    "Geothermal Capacity": 433
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2007,
+    "Geothermal Capacity": 451
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2008,
+    "Geothermal Capacity": 593
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2009,
+    "Geothermal Capacity": 633
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2010,
+    "Geothermal Capacity": 731
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2011,
+    "Geothermal Capacity": 726
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2012,
+    "Geothermal Capacity": 726
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2013,
+    "Geothermal Capacity": 798
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2014,
+    "Geothermal Capacity": 924
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2015,
+    "Geothermal Capacity": 941
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2016,
+    "Geothermal Capacity": 941
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2017,
+    "Geothermal Capacity": 941
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2018,
+    "Geothermal Capacity": 952
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2019,
+    "Geothermal Capacity": 952
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2020,
+    "Geothermal Capacity": 984
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 1990,
+    "Geothermal Capacity": 35
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 1995,
+    "Geothermal Capacity": 70
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2000,
+    "Geothermal Capacity": 21
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2001,
+    "Geothermal Capacity": 26
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2002,
+    "Geothermal Capacity": 77.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2003,
+    "Geothermal Capacity": 77.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2004,
+    "Geothermal Capacity": 77.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2005,
+    "Geothermal Capacity": 87.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2006,
+    "Geothermal Capacity": 87.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2007,
+    "Geothermal Capacity": 87.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2008,
+    "Geothermal Capacity": 87.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2009,
+    "Geothermal Capacity": 87.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2010,
+    "Geothermal Capacity": 87.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2011,
+    "Geothermal Capacity": 87.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2012,
+    "Geothermal Capacity": 164.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2013,
+    "Geothermal Capacity": 154.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2014,
+    "Geothermal Capacity": 154.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2015,
+    "Geothermal Capacity": 154.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2016,
+    "Geothermal Capacity": 154.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2017,
+    "Geothermal Capacity": 154.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2018,
+    "Geothermal Capacity": 154.5
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2019,
+    "Geothermal Capacity": 153.24
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2020,
+    "Geothermal Capacity": 153
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 1990,
+    "Geothermal Capacity": 3656.5
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 1995,
+    "Geothermal Capacity": 3913.96
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2000,
+    "Geothermal Capacity": 3648
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2001,
+    "Geothermal Capacity": 3054
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2002,
+    "Geothermal Capacity": 3095
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2003,
+    "Geothermal Capacity": 3093
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2004,
+    "Geothermal Capacity": 3112
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2005,
+    "Geothermal Capacity": 3245
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2006,
+    "Geothermal Capacity": 3234
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2007,
+    "Geothermal Capacity": 3174
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2008,
+    "Geothermal Capacity": 3192
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2009,
+    "Geothermal Capacity": 3347
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2010,
+    "Geothermal Capacity": 3370
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2011,
+    "Geothermal Capacity": 3296
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2012,
+    "Geothermal Capacity": 3416
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2013,
+    "Geothermal Capacity": 3430
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2014,
+    "Geothermal Capacity": 3327
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2015,
+    "Geothermal Capacity": 3448
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2016,
+    "Geothermal Capacity": 3443
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2017,
+    "Geothermal Capacity": 3408.7
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2018,
+    "Geothermal Capacity": 3491.1
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2019,
+    "Geothermal Capacity": 3490.9
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2020,
+    "Geothermal Capacity": 3493
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 1990,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 1995,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2000,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2001,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2002,
+    "Geothermal Capacity": 2
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2003,
+    "Geothermal Capacity": 2
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2004,
+    "Geothermal Capacity": 2
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2005,
+    "Geothermal Capacity": 0.8999999999999773
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2006,
+    "Geothermal Capacity": 0.8999999999998636
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2007,
+    "Geothermal Capacity": 0.900000000000091
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2008,
+    "Geothermal Capacity": 0.900000000000091
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2009,
+    "Geothermal Capacity": 0.900000000000091
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2010,
+    "Geothermal Capacity": 0.900000000000091
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2011,
+    "Geothermal Capacity": 0.900000000000091
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2012,
+    "Geothermal Capacity": 0.900000000000091
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2013,
+    "Geothermal Capacity": 0.900000000000091
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2014,
+    "Geothermal Capacity": 0.9650000000001456
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2015,
+    "Geothermal Capacity": 0.9650000000001456
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2016,
+    "Geothermal Capacity": 0.9739999999997052
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2017,
+    "Geothermal Capacity": 3.9649999999996903
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2018,
+    "Geothermal Capacity": 3.9649999999996903
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2019,
+    "Geothermal Capacity": 3.9650000000001455
+  },
+  {
+    "Entity": "Other Europe",
+    "Code": "",
+    "Year": 2020,
+    "Geothermal Capacity": 4
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 1990,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 1995,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2000,
+    "Geothermal Capacity": 4.600000000000023
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2001,
+    "Geothermal Capacity": 4.600000000000023
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2002,
+    "Geothermal Capacity": 4.600000000000023
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2003,
+    "Geothermal Capacity": 4.600000000000023
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2004,
+    "Geothermal Capacity": 4.600000000000023
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2005,
+    "Geothermal Capacity": 15.600000000000025
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2006,
+    "Geothermal Capacity": 15.60000000000008
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2007,
+    "Geothermal Capacity": 15.599999999999966
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2008,
+    "Geothermal Capacity": 15.599999999999966
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2009,
+    "Geothermal Capacity": 14.999999999999943
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2010,
+    "Geothermal Capacity": 14.999999999999943
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2011,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2012,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2013,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2014,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2015,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2016,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2017,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2018,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2019,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Other South & Central America",
+    "Code": "",
+    "Year": 2020,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 1990,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 1995,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2000,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2001,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2002,
+    "Geothermal Capacity": 0
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2003,
+    "Geothermal Capacity": 6
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2004,
+    "Geothermal Capacity": 6
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2005,
+    "Geothermal Capacity": 36
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2006,
+    "Geothermal Capacity": 36
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2007,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2008,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2009,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2010,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2011,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2012,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2013,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2014,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2015,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2016,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2017,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2018,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2019,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2020,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 1990,
+    "Geothermal Capacity": 888
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 1995,
+    "Geothermal Capacity": 1154
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2000,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2001,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2002,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2003,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2004,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2005,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2006,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2007,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2008,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2009,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2010,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2011,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2012,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2013,
+    "Geothermal Capacity": 1846.5
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2014,
+    "Geothermal Capacity": 1916.1
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2015,
+    "Geothermal Capacity": 1916.1
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2016,
+    "Geothermal Capacity": 1916.1
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2017,
+    "Geothermal Capacity": 1916.1
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2018,
+    "Geothermal Capacity": 1928.1
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2019,
+    "Geothermal Capacity": 1928.1
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2020,
+    "Geothermal Capacity": 1928
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1990,
+    "Geothermal Capacity": 3
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1995,
+    "Geothermal Capacity": 5
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2000,
+    "Geothermal Capacity": 14
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2001,
+    "Geothermal Capacity": 14
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2002,
+    "Geothermal Capacity": 14
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2003,
+    "Geothermal Capacity": 14
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2004,
+    "Geothermal Capacity": 14
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2005,
+    "Geothermal Capacity": 14
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2006,
+    "Geothermal Capacity": 25
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2007,
+    "Geothermal Capacity": 25
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2008,
+    "Geothermal Capacity": 25
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2009,
+    "Geothermal Capacity": 25
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2010,
+    "Geothermal Capacity": 25
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2011,
+    "Geothermal Capacity": 25
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2012,
+    "Geothermal Capacity": 25
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2013,
+    "Geothermal Capacity": 25
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2014,
+    "Geothermal Capacity": 25
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2015,
+    "Geothermal Capacity": 25
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2016,
+    "Geothermal Capacity": 25
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2017,
+    "Geothermal Capacity": 29.1
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2018,
+    "Geothermal Capacity": 29.1
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2019,
+    "Geothermal Capacity": 29.1
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2020,
+    "Geothermal Capacity": 29
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 1990,
+    "Geothermal Capacity": 11
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 1995,
+    "Geothermal Capacity": 11
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2000,
+    "Geothermal Capacity": 23
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2001,
+    "Geothermal Capacity": 21
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2002,
+    "Geothermal Capacity": 70
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2003,
+    "Geothermal Capacity": 70
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2004,
+    "Geothermal Capacity": 56
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2005,
+    "Geothermal Capacity": 79
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2006,
+    "Geothermal Capacity": 87
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2007,
+    "Geothermal Capacity": 90
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2008,
+    "Geothermal Capacity": 80
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2009,
+    "Geothermal Capacity": 81
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2010,
+    "Geothermal Capacity": 81
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2011,
+    "Geothermal Capacity": 81
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2012,
+    "Geothermal Capacity": 81
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2013,
+    "Geothermal Capacity": 79
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2014,
+    "Geothermal Capacity": 78
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2015,
+    "Geothermal Capacity": 78
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2016,
+    "Geothermal Capacity": 78
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2017,
+    "Geothermal Capacity": 74
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2018,
+    "Geothermal Capacity": 74
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2019,
+    "Geothermal Capacity": 74
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2020,
+    "Geothermal Capacity": 74
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 1990,
+    "Geothermal Capacity": 130
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 1995,
+    "Geothermal Capacity": 230
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2000,
+    "Geothermal Capacity": 360.8
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2001,
+    "Geothermal Capacity": 365.8
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2002,
+    "Geothermal Capacity": 417
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2003,
+    "Geothermal Capacity": 435
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2004,
+    "Geothermal Capacity": 428
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2005,
+    "Geothermal Capacity": 449
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2006,
+    "Geothermal Capacity": 474.2000000000001
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2007,
+    "Geothermal Capacity": 527.4
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2008,
+    "Geothermal Capacity": 527.4
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2009,
+    "Geothermal Capacity": 526.8
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2010,
+    "Geothermal Capacity": 526.8
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2011,
+    "Geothermal Capacity": 578.2
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2012,
+    "Geothermal Capacity": 655.5999999999999
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2013,
+    "Geothermal Capacity": 640.5999999999999
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2014,
+    "Geothermal Capacity": 640.5999999999999
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2015,
+    "Geothermal Capacity": 640.46
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2016,
+    "Geothermal Capacity": 629.96
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2017,
+    "Geothermal Capacity": 688.96
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2018,
+    "Geothermal Capacity": 712.96
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2019,
+    "Geothermal Capacity": 761.2
+  },
+  {
+    "Entity": "South & Central America",
+    "Code": "",
+    "Year": 2020,
+    "Geothermal Capacity": 762
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 1990,
+    "Geothermal Capacity": 20.6
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 1995,
+    "Geothermal Capacity": 20.4
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2000,
+    "Geothermal Capacity": 18
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2001,
+    "Geothermal Capacity": 18
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2002,
+    "Geothermal Capacity": 18
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2003,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2004,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2005,
+    "Geothermal Capacity": 15
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2006,
+    "Geothermal Capacity": 23
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2007,
+    "Geothermal Capacity": 23
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2008,
+    "Geothermal Capacity": 30
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2009,
+    "Geothermal Capacity": 77
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2010,
+    "Geothermal Capacity": 94
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2011,
+    "Geothermal Capacity": 114
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2012,
+    "Geothermal Capacity": 162
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2013,
+    "Geothermal Capacity": 311
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2014,
+    "Geothermal Capacity": 405
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2015,
+    "Geothermal Capacity": 624
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2016,
+    "Geothermal Capacity": 821
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2017,
+    "Geothermal Capacity": 1063.7
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2018,
+    "Geothermal Capacity": 1282.5
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2019,
+    "Geothermal Capacity": 1514.7
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2020,
+    "Geothermal Capacity": 1613
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1990,
+    "Geothermal Capacity": 2913.5
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1995,
+    "Geothermal Capacity": 3170.96
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2000,
+    "Geothermal Capacity": 2793
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2001,
+    "Geothermal Capacity": 2216
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2002,
+    "Geothermal Capacity": 2252
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2003,
+    "Geothermal Capacity": 2133
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2004,
+    "Geothermal Capacity": 2152
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2005,
+    "Geothermal Capacity": 2285
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2006,
+    "Geothermal Capacity": 2274
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2007,
+    "Geothermal Capacity": 2214
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2008,
+    "Geothermal Capacity": 2229
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2009,
+    "Geothermal Capacity": 2382
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2010,
+    "Geothermal Capacity": 2405
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2011,
+    "Geothermal Capacity": 2409
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2012,
+    "Geothermal Capacity": 2592
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2013,
+    "Geothermal Capacity": 2607
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2014,
+    "Geothermal Capacity": 2514
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2015,
+    "Geothermal Capacity": 2542
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2016,
+    "Geothermal Capacity": 2517
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2017,
+    "Geothermal Capacity": 2483
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2018,
+    "Geothermal Capacity": 2540.5
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2019,
+    "Geothermal Capacity": 2555.3
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2020,
+    "Geothermal Capacity": 2587
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1975,
+    "Geothermal Capacity": 1300
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1980,
+    "Geothermal Capacity": 3887
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1985,
+    "Geothermal Capacity": 4764
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1990,
+    "Geothermal Capacity": 5853.5
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1995,
+    "Geothermal Capacity": 6770.36
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2000,
+    "Geothermal Capacity": 8235.8
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2001,
+    "Geothermal Capacity": 7916.8
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2002,
+    "Geothermal Capacity": 8109
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2003,
+    "Geothermal Capacity": 8195.9
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2004,
+    "Geothermal Capacity": 8214.1
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2005,
+    "Geothermal Capacity": 8564.1
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2006,
+    "Geothermal Capacity": 8792.2
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2007,
+    "Geothermal Capacity": 9022.2
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2008,
+    "Geothermal Capacity": 9344.3
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2009,
+    "Geothermal Capacity": 9790.7
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2010,
+    "Geothermal Capacity": 9998
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2011,
+    "Geothermal Capacity": 10133.4
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2012,
+    "Geothermal Capacity": 10480.3
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2013,
+    "Geothermal Capacity": 10717.6
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2014,
+    "Geothermal Capacity": 11161.815
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2015,
+    "Geothermal Capacity": 11798.875
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2016,
+    "Geothermal Capacity": 12121.594
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2017,
+    "Geothermal Capacity": 12680.665
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2018,
+    "Geothermal Capacity": 13244.865
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2019,
+    "Geothermal Capacity": 13911.665
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2020,
+    "Geothermal Capacity": 14075
+  }
+]
