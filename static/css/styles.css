@@ -558,87 +558,129 @@
 
 
   /*------------------------------------------------------ Estilos tabla global ------------------------------------------------------*/
-
-.overlay-historical-data{
-    background-color: #DB6600;
-    color:white;
-    width: 90%;
-    border-radius: 16px;
-    padding: 20px;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    padding: 9px 30px;
-    background-image: url("../static/assets/images/fondo-historico-global.png");
-    background-repeat: no-repeat; /* Para que no se repita */
-    background-size: cover; /* Cubre todo el contenedor */
-    background-position: center; /* Centra la imagen */
-  }
-  .overlay-historical-data h2{
-    background-color:darkred;
+ 
+  .slide.slider-img ul {
+    display: flex;
+    width: 100vw;
+    animation: none; 
 
   }
-  .overlay-historical-data h3{
-    background-color:gold;
-    width: 50vw;
-    
-  }
-  .overlay-historical-data h5{
-    font-weight: 100;
-  }
-
-
-.overlay-historical-data h5 a:-webkit-any-link {
+ 
+  .slide-button a:-webkit-any-link {
     color: white;
     text-decoration: none;
-}
-.overlay-historical-data h5 a:hover{
-  color:black;
-}
+  }
+  #contenedor-historico{
+    color: white;
+    text-align: center;
+    margin: 100px;
+    padding: 20px 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    /*background-image: url('../assets/images/historico-fondo.png'); /* Reemplazá por tu ruta real */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 500px;
+    border: 1px  solid #DB6600;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.517);
+    text-align: center;
+    
 
-#selectorEntity {
-  /* Reset */
-  appearance: none;
-  border: 0;
-  outline: 0;
-  font: inherit;
-  /* Personalize */
-  width: 20rem;
-  padding: 1rem 4rem 1rem 1rem;
-  background: var(--arrow-icon) no-repeat right 0.8em center / 1.4em,
+
+  }
+  #contenedor-historico h1{
+    margin-bottom: 20px; 
+    font-size: 50px;
+    letter-spacing: -2px;
+
+  }
+  #contenedor-historico p{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.938); 
+    line-height: 135%;
+    text-align: justify;
+  }
+  #selectorEntity {
+    --arrow-bg: rgba(248, 158, 55, 0.8);
+    --arrow-icon: url(https://upload.wikimedia.org/wikipedia/commons/9/9d/Caret_down_font_awesome_whitevariation.svg);
+    --option-bg: white;
+    --select-bg: rgba(219, 102, 0, 0.8);
+    appearance: none;
+    border: 0;
+    outline: 0;
+    font: inherit;  
+    color: white;
+    border-radius: 0.25em;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-top: 40px;
+    font-weight: 500;
+    padding: 10px 100px;
+    background: var(--arrow-icon) no-repeat right 0.8em center / 1.4em,
     linear-gradient(to left, var(--arrow-bg) 3em, var(--select-bg) 3em);
-  color: white;
-  border-radius: 0.25em;
-  box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
-  cursor: pointer;
-  margin-top: 20px;
-
-  /* Remove IE arrow */
-  &::-ms-expand {
-    display: none;
+    width: 550px;
+    font-size: 20px;
+    /* Remove IE arrow */
+    &::-ms-expand {
+      display: none;
+    }
+    /* Remove focus outline */
+    &:focus {
+      outline: none;
+    }
   }
-  /* Remove focus outline */
-  &:focus {
-    outline: none;
-  }
-}
 
   option {
     color: inherit;
     background-color: var(--option-bg);
   }
   .padre-scroll {
-    max-height: 500px;
-    min-height: 300px;
-    width: 100%;
-    border: 1px solid #ccc;
+    width: auto;   
     padding: 10px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
+   
+    
   }
+  #cuadroDatosEntity {
+    background-color: #00000000;
+    max-height: 450px; /* o el alto que desees */
+    overflow-y: auto;
+    margin-top: 5vh;
+    margin-bottom: 5vh ;
+    display: flex;
+   
+    
+  }
+  #cuadroDatosEntity table {
+    border-collapse: collapse;
+    padding-bottom: 500px;
+    width: 500px;
+    color: #5e5d5d;
+  }
+  #cuadroDatosEntity table th{
+    background-color:  rgba(219, 102, 0, 0.8);
+    font-weight: 700;
+    font-size: px;
+    color: #ffffff;
+  }
+  #cuadroDatosEntity table tr{
+    height: 40px; 
+    border: none;
+    border-color: #5e5d5d;
+  }
+    #cuadroDatosEntity table tr td{
+    vertical-align: auto;
+    }
   .padre-scroll img{
     width: 25px;
     height: 25px;
@@ -647,22 +689,37 @@
       height: 27px;
       width: 27px;
   }
-  #cuadroDatosEntity {
-    background-color: darkmagenta;
-    max-height: 200px; /* o el alto que desees */
-    width: 500px;
-    overflow-y: auto;
-    margin-top: 5vh;
-    margin-bottom: 5vh ;
+  .table-section-bottom h5{
+    color:#5e5d5d;
+    font-weight: 300;
   }
   
-  #cuadroDatosEntity table {
-    width: 100%;
-    border-collapse: collapse;
+  .table-section-bottom h5 a:-webkit-any-link {
+    text-decoration: none;
+    color:#5e5d5d;
+}
+  .table-section-bottom h5 a:hover{
+    color:#DB6600;
   }
-  #cuadroDatosEntity table th{
-   font-weight: 700;
+  #cuadroDatosEntity::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
   }
+  #cuadroDatosEntity::-webkit-scrollbar-track {
+    background: #f0f0f0;
+    border-radius: 10px;
+  }
+  
+  #cuadroDatosEntity::-webkit-scrollbar-thumb {
+    background: rgba(219, 102, 0, 0.8);
+    border-radius: 10px;
+  }
+  
+ ::-webkit-scrollbar-thumb:hover {
+    background: rgba(248, 158, 55, 0.8)
+  }
+  
+  
   /*------------------------------------------------------ Estilos tabla global ------------------------------------------------------*/
   
   

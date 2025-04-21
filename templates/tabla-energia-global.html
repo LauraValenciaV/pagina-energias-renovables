@@ -7,19 +7,22 @@
     <title>Energías Renovables En Colombia</title>
     <link rel="stylesheet" href="../static/css/styles.css">
     <link rel="icon" href="../static/assets/images/Favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <!--fuentes  (no borrar)-->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 
 <body>
     <!--contenedor principal-->
-
-    <div>
+    <div class="container">
         <header>
             <!-- nav principal -->
-
-            <div>
+            <div class="wrap-nav">
                 <nav class="navbar">
                     <div class="logo">
-                        <img src="../assets/images/Favicon.png" alt="Logo empresa">
+                        <img src="../static/assets/images/Favicon.png" alt="Logo empresa">
                     </div>
 
                     <ul class="nav-links">
@@ -27,47 +30,50 @@
                         <li><a href="tipos-de-energia.html">Tipos de Energía</a></li>
                         <li><a href="dashboard.html">Dashboard</a></li>
                         <li><a href="calcula-consumo.html">Calcular Energia</a></li>
+                        <li><a href="tabla-energia-global.html">Histórico energético</a></li>
                     </ul>
 
                     <div class="icons">
-                        <a href=""><img src="../assets/images/search-icon2.png" alt=""></a>
-                        <a href=""><img src="../assets/images/energy-icon1.png" alt=""></a>
+                        <a href=""><img src="../static/assets/images/search-icon2.png" alt=""></a>
+                        <a href=""><img src="../static/assets/images/energy-icon1.png" alt=""></a>
                     </div>
 
                 </nav>
 
                 <!-- Slider de imagenes del home -->
 
-               
+                <div class="slider-container">
+                    <div class="slide slider-img">
+                        <ul>
+                            <li><img src="../static/assets/images/historico-slider.png" alt=""></li>
+                        </ul>
+                    </div>
+
+                    <div class="slide-text">
+                        <h1>Histórico de datos</h1>
+                        <p>Explora la historia de la energía limpia por país. Puedes elegir desde un país hasta un continente y explorar sus datos de energía limpia desde 1965 hasta 2021.</p>
+                        <button class="slide-button">
+                            <a href="#contenedor-historico" class="boton-descubre-historico">Descubre Más</a>
+                        </button>
+                    </div>
+                </div>
             </div>
         </header>
-
-
-        <!--conenido main -->
         <main>
-            <section class="hero">
-                <div class="overlay-historical-data">
-                    <h2>Historico de datos </h2>
-                    <div>
-                        <div class="global-table">
-                            <div class="padre-scroll">
-                                <h3>Explora la historia de la energía limpia por país. Puedes elegir desde un país hasta un continente y explorar sus datos de energía limpia desde 1965 hasta 2021.</h3>
-                                <select id="selectorEntity">
-                                    <option value="">Cargando</option>
-                                </select>
-                                <div id="cuadroDatosEntity"></div>
-                                <div class="table-section-bottom">
-                                    <h5>Para mas información visita 
-                                        <a href = "https://www.kaggle.com/datasets/belayethossainds/renewable-energy-world-wide-19652022?resource=download&select=03+modern-renewable-prod.csv" target="_blank"> 
-                                            Kaggle <img src="../static/assets/icons/informacion-data-icon.png" alt="Facebook" />
-                                        </a>
-                                    </h5>
-                                </div>
-                            </div>
-                                
-                        </div>  
-                    </div>   
-                </div>
+            <section id="contenedor-historico"> 
+                <select id="selectorEntity">
+                    <option value="">Cargando</option>
+                </select>
+                    <div class="padre-scroll">
+                        <div id="cuadroDatosEntity"></div>
+                        <div class="table-section-bottom">
+                            <h5>Para mas información visita: 
+                                <a href = "https://www.kaggle.com/datasets/belayethossainds/renewable-energy-world-wide-19652022?resource=download&select=03+modern-renewable-prod.csv" target="_blank"> 
+                                    Kaggle <img src="../static/assets/icons/informacion-data-icon.png" alt="Facebook" />
+                                </a>
+                            </h5>
+                        </div>
+                    </div>    
             </section>
         </main>
 
@@ -75,7 +81,7 @@
         <footer>
             <div class="footer-content">
                 <div class="footer-left">
-                    <img src="../assets/images/Favicon.png" alt="Logo" class="footer-logo" />
+                    <img src="../static/assets/images/Favicon.png" alt="Logo" class="footer-logo" />
                 </div>
 
                 <div class="footer-links">
@@ -111,10 +117,10 @@
                 </div>
 
                 <div class="footer-icons">
-                    <img src="../assets/icons/facebok-icon1.png" alt="Facebook" />
-                    <img src="../assets/icons/linkedlin-icon1.png" alt="LinkedIn" />
-                    <img src="../assets/icons/youtube-icon1.png" alt="YouTube" />
-                    <img src="../assets/icons/instagram-icon1.png" alt="Instagram" />
+                    <img src="../static/assets/icons/facebok-icon1.png" alt="Facebook" />
+                    <img src="../static/assets/icons/linkedlin-icon1.png" alt="LinkedIn" />
+                    <img src="../static/assets/icons/youtube-icon1.png" alt="YouTube" />
+                    <img src="../static/assets/icons/instagram-icon1.png" alt="Instagram" />
                 </div>
             </div>
 
