@@ -1,0 +1,9956 @@
+[
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0.0011124251999999999
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.0031372757
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.0051621259999999995
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.008199402
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.010927
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.013028999000000001
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.015243000000000001
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.018019001
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 0.021995999999999998
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 0.025965000000000002
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 0.034268
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 0.046656002
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 0.063372997
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 0.106845
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 0.19384200000000001
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 0.26638799999999996
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 0.34595400000000004
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 0.6669729999999999
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 1.5731199999999999
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 1.930761
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 2.988417
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 4.711063
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 7.210268
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 8.415319
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 9.703859000000001
+  },
+  {
+    "Entity": "Africa",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 10.30226
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0.0010124252
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.0030372756
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.005062126
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.008099401
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.010927
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.013029
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.015243000000000001
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.018019
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 0.021995999999999998
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 0.025965000000000002
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 0.034268
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 0.046656
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 0.063373
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 0.106845
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 0.19384200000000001
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 0.26638799999999996
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 0.34595400000000004
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 0.6669729999999999
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 1.5731199999999999
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 1.930761
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 2.988417
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 4.711063
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 7.210268
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 8.415319
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 9.703859000000001
+  },
+  {
+    "Entity": "Africa (BP)",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 10.30226
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2007,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2008,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2009,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2010,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2011,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2012,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2013,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2014,
+    "Solar Capacity": 0.0011
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2015,
+    "Solar Capacity": 0.049100000000000005
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2016,
+    "Solar Capacity": 0.2191
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2017,
+    "Solar Capacity": 0.4
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2018,
+    "Solar Capacity": 0.423
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2019,
+    "Solar Capacity": 0.423
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2020,
+    "Solar Capacity": 0.423
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2021,
+    "Solar Capacity": 0.423
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2000,
+    "Solar Capacity": 0.000025
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2001,
+    "Solar Capacity": 0.000026
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2002,
+    "Solar Capacity": 0.000026
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2003,
+    "Solar Capacity": 0.000026
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2004,
+    "Solar Capacity": 0.000026
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2005,
+    "Solar Capacity": 0.000026
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2006,
+    "Solar Capacity": 0.000026
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2007,
+    "Solar Capacity": 0.000026
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2008,
+    "Solar Capacity": 0.000026
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2009,
+    "Solar Capacity": 0.000026
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2010,
+    "Solar Capacity": 0.000026
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2011,
+    "Solar Capacity": 0.001252
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2012,
+    "Solar Capacity": 0.006252
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2013,
+    "Solar Capacity": 0.008257
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2014,
+    "Solar Capacity": 0.008252
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2015,
+    "Solar Capacity": 0.008618
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2016,
+    "Solar Capacity": 0.008806
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2017,
+    "Solar Capacity": 0.008806
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2018,
+    "Solar Capacity": 0.191236
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2019,
+    "Solar Capacity": 0.442111
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2020,
+    "Solar Capacity": 0.764135
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2021,
+    "Solar Capacity": 1.071366
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0.061
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.0938
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.1393
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.2214
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.37112
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.50622998
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.712151
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.9508200000000001
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 1.241006
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 1.6106339
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 1.972485
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 2.298976
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 2.878011
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 3.7645862
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 5.629264
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 9.88405
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 16.54569
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 36.577152000000005
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 61.170582
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 91.58861999999999
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 142.65352
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 217.31088
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 284.53244
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 344.22015999999996
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 423.60356
+  },
+  {
+    "Entity": "Asia",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 501.57628000000005
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0.077
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.1125
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.162
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.246
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.395655
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.5345599999999999
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.7451810000000001
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.98845
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 1.285106
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 1.6591710000000002
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 2.029164
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 2.363006
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 2.951403
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 4.052475
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 6.625174
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 12.136772
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 20.023832
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 40.64408
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 65.618234
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 96.15716400000001
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 146.79978
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 218.84447
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 284.15684000000005
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 344.11662
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 425.32716
+  },
+  {
+    "Entity": "Asia Pacific (BP)",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 501.6153
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1996,
+    "Solar Capacity": 0.016
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1997,
+    "Solar Capacity": 0.019
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1998,
+    "Solar Capacity": 0.023
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 1999,
+    "Solar Capacity": 0.025
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2000,
+    "Solar Capacity": 0.025
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2001,
+    "Solar Capacity": 0.029
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2002,
+    "Solar Capacity": 0.034
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2003,
+    "Solar Capacity": 0.039
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2004,
+    "Solar Capacity": 0.046
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2005,
+    "Solar Capacity": 0.052000000000000005
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2006,
+    "Solar Capacity": 0.061
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2007,
+    "Solar Capacity": 0.07
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2008,
+    "Solar Capacity": 0.082
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2009,
+    "Solar Capacity": 0.329
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2010,
+    "Solar Capacity": 1.088
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2011,
+    "Solar Capacity": 2.47
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2012,
+    "Solar Capacity": 3.7960000000000003
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2013,
+    "Solar Capacity": 4.565
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2014,
+    "Solar Capacity": 5.284
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2015,
+    "Solar Capacity": 5.9430000000000005
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2016,
+    "Solar Capacity": 6.686
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2017,
+    "Solar Capacity": 7.352
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2018,
+    "Solar Capacity": 8.623
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2019,
+    "Solar Capacity": 12.967
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2020,
+    "Solar Capacity": 17.342
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2021,
+    "Solar Capacity": 19.074
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1996,
+    "Solar Capacity": 0.0017
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1997,
+    "Solar Capacity": 0.0022
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1998,
+    "Solar Capacity": 0.0029
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1999,
+    "Solar Capacity": 0.0037
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2000,
+    "Solar Capacity": 0.005
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2001,
+    "Solar Capacity": 0.007
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2002,
+    "Solar Capacity": 0.009000000000000001
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2003,
+    "Solar Capacity": 0.023
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2004,
+    "Solar Capacity": 0.027
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2005,
+    "Solar Capacity": 0.021018000000000002
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2006,
+    "Solar Capacity": 0.022387
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2007,
+    "Solar Capacity": 0.024238
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2008,
+    "Solar Capacity": 0.03012
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2009,
+    "Solar Capacity": 0.048915
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2010,
+    "Solar Capacity": 0.088813
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2011,
+    "Solar Capacity": 0.17407
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2012,
+    "Solar Capacity": 0.33748300000000003
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2013,
+    "Solar Capacity": 0.625974
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2014,
+    "Solar Capacity": 0.785246
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2015,
+    "Solar Capacity": 0.937098
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2016,
+    "Solar Capacity": 1.096016
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2017,
+    "Solar Capacity": 1.268971
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2018,
+    "Solar Capacity": 1.455132
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2019,
+    "Solar Capacity": 1.702093
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2020,
+    "Solar Capacity": 2.042934
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2021,
+    "Solar Capacity": 2.6919340000000003
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2002,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2003,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2004,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2005,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2006,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2007,
+    "Solar Capacity": 0.02
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2008,
+    "Solar Capacity": 0.062
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2009,
+    "Solar Capacity": 0.386
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2010,
+    "Solar Capacity": 1.0066
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2011,
+    "Solar Capacity": 1.9786
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2012,
+    "Solar Capacity": 2.6466
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2013,
+    "Solar Capacity": 2.9016
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2014,
+    "Solar Capacity": 3.015
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2015,
+    "Solar Capacity": 3.1316
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2016,
+    "Solar Capacity": 3.3288
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2017,
+    "Solar Capacity": 3.6206
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2018,
+    "Solar Capacity": 4
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2019,
+    "Solar Capacity": 4.6366000000000005
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2020,
+    "Solar Capacity": 5.574800000000001
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2021,
+    "Solar Capacity": 6.584600000000001
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2001,
+    "Solar Capacity": 0.000036
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2002,
+    "Solar Capacity": 0.000036
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2003,
+    "Solar Capacity": 0.000716
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2004,
+    "Solar Capacity": 0.000718
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2005,
+    "Solar Capacity": 0.000718
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2006,
+    "Solar Capacity": 0.000718
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2007,
+    "Solar Capacity": 0.000718
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2008,
+    "Solar Capacity": 0.000764
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2009,
+    "Solar Capacity": 0.0008139999999999999
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2010,
+    "Solar Capacity": 0.000854
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2011,
+    "Solar Capacity": 0.006097000000000001
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2012,
+    "Solar Capacity": 0.006608
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2013,
+    "Solar Capacity": 0.012528000000000001
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2014,
+    "Solar Capacity": 0.020697
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2015,
+    "Solar Capacity": 0.045567
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2016,
+    "Solar Capacity": 0.127789
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2017,
+    "Solar Capacity": 1.206787
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2018,
+    "Solar Capacity": 2.435022
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2019,
+    "Solar Capacity": 4.613191
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2020,
+    "Solar Capacity": 7.879157
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2021,
+    "Solar Capacity": 13.054926
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2007,
+    "Solar Capacity": 0.00003
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2008,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2009,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2010,
+    "Solar Capacity": 0.025
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2011,
+    "Solar Capacity": 0.154
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2012,
+    "Solar Capacity": 1.0130000000000001
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2013,
+    "Solar Capacity": 1.02
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2014,
+    "Solar Capacity": 1.026
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2015,
+    "Solar Capacity": 1.029
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2016,
+    "Solar Capacity": 1.028
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2017,
+    "Solar Capacity": 1.0355699999999999
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2018,
+    "Solar Capacity": 1.0326790000000001
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2019,
+    "Solar Capacity": 1.0479500000000002
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2020,
+    "Solar Capacity": 1.097357
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2021,
+    "Solar Capacity": 1.186357
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 0.000063
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 0.000079
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 0.0006969999999999999
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 0.00048499999999999997
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 0.000298
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 0.001577
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 0.002018
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 0.003529
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 0.019021
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 0.088825
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 0.21682300000000002
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 0.307539
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 0.5123759999999999
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 1.21778
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 2.61892
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 3.34832
+  },
+  {
+    "Entity": "CIS (BP)",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 4.911386
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1996,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1997,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1998,
+    "Solar Capacity": 0.005
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1999,
+    "Solar Capacity": 0.006
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2000,
+    "Solar Capacity": 0.007
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2001,
+    "Solar Capacity": 0.009000000000000001
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2002,
+    "Solar Capacity": 0.01
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2003,
+    "Solar Capacity": 0.012
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2004,
+    "Solar Capacity": 0.014
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2005,
+    "Solar Capacity": 0.018000000000000002
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2006,
+    "Solar Capacity": 0.022
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2007,
+    "Solar Capacity": 0.029
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2008,
+    "Solar Capacity": 0.038
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2009,
+    "Solar Capacity": 0.107
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2010,
+    "Solar Capacity": 0.249
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2011,
+    "Solar Capacity": 0.628
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2012,
+    "Solar Capacity": 0.766
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2013,
+    "Solar Capacity": 1.21
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2014,
+    "Solar Capacity": 1.843
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2015,
+    "Solar Capacity": 2.519
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2016,
+    "Solar Capacity": 2.665
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2017,
+    "Solar Capacity": 2.932
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2018,
+    "Solar Capacity": 3.095
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2019,
+    "Solar Capacity": 3.327
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2020,
+    "Solar Capacity": 3.342
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2021,
+    "Solar Capacity": 3.6296
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2007,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2008,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2009,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2010,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2011,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2012,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2013,
+    "Solar Capacity": 0.015
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2014,
+    "Solar Capacity": 0.221
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2015,
+    "Solar Capacity": 0.5760000000000001
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2016,
+    "Solar Capacity": 1.125
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2017,
+    "Solar Capacity": 1.809
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2018,
+    "Solar Capacity": 2.137
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2019,
+    "Solar Capacity": 2.653698
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2020,
+    "Solar Capacity": 3.205438
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2021,
+    "Solar Capacity": 4.3600069999999995
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1996,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1997,
+    "Solar Capacity": 0.0025
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1998,
+    "Solar Capacity": 0.005
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1999,
+    "Solar Capacity": 0.01
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2000,
+    "Solar Capacity": 0.033515
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2001,
+    "Solar Capacity": 0.038020000000000005
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2002,
+    "Solar Capacity": 0.056530000000000004
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2003,
+    "Solar Capacity": 0.06659999999999999
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2004,
+    "Solar Capacity": 0.0766
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2005,
+    "Solar Capacity": 0.1412
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2006,
+    "Solar Capacity": 0.16019999999999998
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2007,
+    "Solar Capacity": 0.199
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2008,
+    "Solar Capacity": 0.253
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2009,
+    "Solar Capacity": 0.4148
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2010,
+    "Solar Capacity": 1.0218
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2011,
+    "Solar Capacity": 3.1078
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2012,
+    "Solar Capacity": 6.7178
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2013,
+    "Solar Capacity": 17.747799999999998
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2014,
+    "Solar Capacity": 28.3878
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2015,
+    "Solar Capacity": 43.537800000000004
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2016,
+    "Solar Capacity": 77.7878
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2017,
+    "Solar Capacity": 130.80129
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2018,
+    "Solar Capacity": 175.01586
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2019,
+    "Solar Capacity": 204.57479999999998
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2020,
+    "Solar Capacity": 253.4178
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2021,
+    "Solar Capacity": 306.4028
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2000,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2001,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2002,
+    "Solar Capacity": 0.0002
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2003,
+    "Solar Capacity": 0.0003
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2004,
+    "Solar Capacity": 0.0004
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2005,
+    "Solar Capacity": 0.0005859999999999999
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2006,
+    "Solar Capacity": 0.000841
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2007,
+    "Solar Capacity": 0.003961
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2008,
+    "Solar Capacity": 0.0395
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2009,
+    "Solar Capacity": 0.4646
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2010,
+    "Solar Capacity": 1.727
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2011,
+    "Solar Capacity": 1.913
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2012,
+    "Solar Capacity": 2.0220000000000002
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2013,
+    "Solar Capacity": 2.0635
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2014,
+    "Solar Capacity": 2.0674
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2015,
+    "Solar Capacity": 2.0749
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2016,
+    "Solar Capacity": 2.0679000000000003
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2017,
+    "Solar Capacity": 2.0695
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2018,
+    "Solar Capacity": 2.075072
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2019,
+    "Solar Capacity": 2.086424
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2020,
+    "Solar Capacity": 2.122711
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2021,
+    "Solar Capacity": 2.119211
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2000,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2001,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2002,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2003,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2004,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2005,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2006,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2007,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2008,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2009,
+    "Solar Capacity": 0.005
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2010,
+    "Solar Capacity": 0.007
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2011,
+    "Solar Capacity": 0.017
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2012,
+    "Solar Capacity": 0.402
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2013,
+    "Solar Capacity": 0.5710000000000001
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2014,
+    "Solar Capacity": 0.607
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2015,
+    "Solar Capacity": 0.7821079999999999
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2016,
+    "Solar Capacity": 0.850953
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2017,
+    "Solar Capacity": 0.90635
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2018,
+    "Solar Capacity": 0.998
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2019,
+    "Solar Capacity": 1.08
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2020,
+    "Solar Capacity": 1.304294
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2021,
+    "Solar Capacity": 1.540294
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 1996,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 1997,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 1998,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 1999,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2000,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2001,
+    "Solar Capacity": 0.0005
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2002,
+    "Solar Capacity": 0.0006
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2003,
+    "Solar Capacity": 0.0006
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2004,
+    "Solar Capacity": 0.0006
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2005,
+    "Solar Capacity": 0.0006
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2006,
+    "Solar Capacity": 0.0006
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2007,
+    "Solar Capacity": 0.0007
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2008,
+    "Solar Capacity": 0.0009000000000000001
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2009,
+    "Solar Capacity": 0.0013000000000000002
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2010,
+    "Solar Capacity": 0.015
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2011,
+    "Solar Capacity": 0.015
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2012,
+    "Solar Capacity": 0.015
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2013,
+    "Solar Capacity": 0.015
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2014,
+    "Solar Capacity": 0.015
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2015,
+    "Solar Capacity": 0.016
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2016,
+    "Solar Capacity": 0.039
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2017,
+    "Solar Capacity": 0.16
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2018,
+    "Solar Capacity": 0.7442000000000001
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2019,
+    "Solar Capacity": 1.6272
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2020,
+    "Solar Capacity": 1.6553900000000001
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2021,
+    "Solar Capacity": 1.6553900000000001
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0.0669
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.0873
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.10540000000000001
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.1315
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.2001
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.30036002
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.38499402
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.623771
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 1.335364
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 2.315507
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 3.266667
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 5.039852
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 10.45816
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 16.835742
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 30.119166000000003
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 53.564973
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 71.716375
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 81.8605
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 88.78095
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 97.34830000000001
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 103.88894
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 110.13502000000001
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 119.68972000000001
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 141.2378
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 161.78277
+  },
+  {
+    "Entity": "Europe",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 184.94838000000001
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0.0669
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.0873
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.10540000000000001
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.1315
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.2002
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.30066000000000004
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.385594
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.624771
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 1.336864
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 2.317507
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 3.269167
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 5.042852
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 10.461860000000001
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 16.840441
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 30.124855
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 53.571650000000005
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 71.72798399999999
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 81.876945
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 88.81596
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 97.535984
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 104.64562
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 113.3304
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 124.217
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 145.95662
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 167.02231
+  },
+  {
+    "Entity": "Europe (BP)",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 191.1029
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1996,
+    "Solar Capacity": 0.004
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1997,
+    "Solar Capacity": 0.006
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1998,
+    "Solar Capacity": 0.008
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1999,
+    "Solar Capacity": 0.009000000000000001
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2000,
+    "Solar Capacity": 0.007
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2001,
+    "Solar Capacity": 0.007
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2002,
+    "Solar Capacity": 0.008
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2003,
+    "Solar Capacity": 0.009000000000000001
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2004,
+    "Solar Capacity": 0.011
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2005,
+    "Solar Capacity": 0.013000000000000001
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2006,
+    "Solar Capacity": 0.015
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2007,
+    "Solar Capacity": 0.026000000000000002
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2008,
+    "Solar Capacity": 0.08
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2009,
+    "Solar Capacity": 0.277
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2010,
+    "Solar Capacity": 1.044
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2011,
+    "Solar Capacity": 3.003574
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2012,
+    "Solar Capacity": 4.358754
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2013,
+    "Solar Capacity": 5.277289
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2014,
+    "Solar Capacity": 6.034418
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2015,
+    "Solar Capacity": 7.137517
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2016,
+    "Solar Capacity": 7.702081000000001
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2017,
+    "Solar Capacity": 8.610437
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2018,
+    "Solar Capacity": 9.672296000000001
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2019,
+    "Solar Capacity": 10.807874
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2020,
+    "Solar Capacity": 12.022225
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2021,
+    "Solar Capacity": 14.709225
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1996,
+    "Solar Capacity": 0.028
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1997,
+    "Solar Capacity": 0.042
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1998,
+    "Solar Capacity": 0.054
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1999,
+    "Solar Capacity": 0.07
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2000,
+    "Solar Capacity": 0.114
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2001,
+    "Solar Capacity": 0.195
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2002,
+    "Solar Capacity": 0.26
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2003,
+    "Solar Capacity": 0.435
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2004,
+    "Solar Capacity": 1.105
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2005,
+    "Solar Capacity": 2.056
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2006,
+    "Solar Capacity": 2.899
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2007,
+    "Solar Capacity": 4.17
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2008,
+    "Solar Capacity": 6.12
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2009,
+    "Solar Capacity": 10.564
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2010,
+    "Solar Capacity": 18.004
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2011,
+    "Solar Capacity": 25.914
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2012,
+    "Solar Capacity": 34.075
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2013,
+    "Solar Capacity": 36.708
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2014,
+    "Solar Capacity": 37.898
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2015,
+    "Solar Capacity": 39.222
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2016,
+    "Solar Capacity": 40.677
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2017,
+    "Solar Capacity": 42.291000000000004
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2018,
+    "Solar Capacity": 45.156
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2019,
+    "Solar Capacity": 48.912
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2020,
+    "Solar Capacity": 53.719
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2021,
+    "Solar Capacity": 58.459
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2001,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2002,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2003,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2004,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2005,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2006,
+    "Solar Capacity": 0.005
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2007,
+    "Solar Capacity": 0.009000000000000001
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2008,
+    "Solar Capacity": 0.012
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2009,
+    "Solar Capacity": 0.046
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2010,
+    "Solar Capacity": 0.202
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2011,
+    "Solar Capacity": 0.612
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2012,
+    "Solar Capacity": 1.536
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2013,
+    "Solar Capacity": 2.579
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2014,
+    "Solar Capacity": 2.596
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2015,
+    "Solar Capacity": 2.604
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2016,
+    "Solar Capacity": 2.604
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2017,
+    "Solar Capacity": 2.6055300000000003
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2018,
+    "Solar Capacity": 2.6515700000000004
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2019,
+    "Solar Capacity": 2.833794
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2020,
+    "Solar Capacity": 3.2877199999999998
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2021,
+    "Solar Capacity": 3.5300000000000002
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0.1549
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.21
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.2765
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.3825
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.7332000000000001
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.9993
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 1.31553
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 1.80975
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 2.8639699999999997
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 4.279644
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 5.754938
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 8.0768394
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 14.195200000000002
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 22.023602
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 38.649695
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 67.32972000000001
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 90.870625
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 112.36930000000001
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 135.42244
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 163.54958
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 191.79188000000002
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 217.12705
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 246.0403
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 290.9125
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 340.51756
+  },
+  {
+    "Entity": "High-income countries",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 395.40947
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 1999,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2000,
+    "Solar Capacity": 0.001599
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2001,
+    "Solar Capacity": 0.001804
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2002,
+    "Solar Capacity": 0.001975
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2003,
+    "Solar Capacity": 0.002128
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2004,
+    "Solar Capacity": 0.002376
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2005,
+    "Solar Capacity": 0.0026680000000000002
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2006,
+    "Solar Capacity": 0.002872
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2007,
+    "Solar Capacity": 0.0032280000000000004
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2008,
+    "Solar Capacity": 0.0032280000000000004
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2009,
+    "Solar Capacity": 0.003512
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2010,
+    "Solar Capacity": 0.0037280000000000004
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2011,
+    "Solar Capacity": 0.004479
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2012,
+    "Solar Capacity": 0.005156
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2013,
+    "Solar Capacity": 0.005156
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2014,
+    "Solar Capacity": 0.005156
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2015,
+    "Solar Capacity": 0.393156
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2016,
+    "Solar Capacity": 0.414156
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2017,
+    "Solar Capacity": 0.453786
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2018,
+    "Solar Capacity": 0.5136860000000001
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2019,
+    "Solar Capacity": 0.514
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2020,
+    "Solar Capacity": 0.514
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2021,
+    "Solar Capacity": 0.514
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2007,
+    "Solar Capacity": 0.0004
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2008,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2009,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2010,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2011,
+    "Solar Capacity": 0.004
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2012,
+    "Solar Capacity": 0.012
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2013,
+    "Solar Capacity": 0.035
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2014,
+    "Solar Capacity": 0.089
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2015,
+    "Solar Capacity": 0.17200000000000001
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2016,
+    "Solar Capacity": 0.23500000000000001
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2017,
+    "Solar Capacity": 0.34400000000000003
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2018,
+    "Solar Capacity": 0.728
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2019,
+    "Solar Capacity": 1.4000000000000001
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2020,
+    "Solar Capacity": 2.1310000000000002
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2021,
+    "Solar Capacity": 2.1310000000000002
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2000,
+    "Solar Capacity": 0.0010840000000000001
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2001,
+    "Solar Capacity": 0.005535
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2002,
+    "Solar Capacity": 0.006705
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2003,
+    "Solar Capacity": 0.007885
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2004,
+    "Solar Capacity": 0.00781
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2005,
+    "Solar Capacity": 0.011567000000000001
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2006,
+    "Solar Capacity": 0.009603
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2007,
+    "Solar Capacity": 0.025099
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2008,
+    "Solar Capacity": 0.027723
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2009,
+    "Solar Capacity": 0.039362
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2010,
+    "Solar Capacity": 0.06536199999999999
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2011,
+    "Solar Capacity": 0.5633150000000001
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2012,
+    "Solar Capacity": 0.9785820000000001
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2013,
+    "Solar Capacity": 1.445827
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2014,
+    "Solar Capacity": 3.4440079999999997
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2015,
+    "Solar Capacity": 5.364984000000001
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2016,
+    "Solar Capacity": 9.650521000000001
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2017,
+    "Solar Capacity": 17.923256000000002
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2018,
+    "Solar Capacity": 27.124598000000002
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2019,
+    "Solar Capacity": 34.860906
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2020,
+    "Solar Capacity": 39.042656
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2021,
+    "Solar Capacity": 49.341508000000005
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 1997,
+    "Solar Capacity": 0.0003
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 1998,
+    "Solar Capacity": 0.0003
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 1999,
+    "Solar Capacity": 0.0004
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2005,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2006,
+    "Solar Capacity": 0.0013000000000000002
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2007,
+    "Solar Capacity": 0.0018000000000000002
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2008,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2009,
+    "Solar Capacity": 0.0245
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2010,
+    "Solar Capacity": 0.0699
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2011,
+    "Solar Capacity": 0.18969999999999998
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2012,
+    "Solar Capacity": 0.272
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2013,
+    "Solar Capacity": 0.3768
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2014,
+    "Solar Capacity": 0.5871000000000001
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2015,
+    "Solar Capacity": 0.7657
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2016,
+    "Solar Capacity": 0.8736
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2017,
+    "Solar Capacity": 0.9823
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2018,
+    "Solar Capacity": 1.2852000000000001
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2019,
+    "Solar Capacity": 1.8074000000000001
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2020,
+    "Solar Capacity": 2.23
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2021,
+    "Solar Capacity": 2.313
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1996,
+    "Solar Capacity": 0.016
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1997,
+    "Solar Capacity": 0.017
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1998,
+    "Solar Capacity": 0.018000000000000002
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1999,
+    "Solar Capacity": 0.018000000000000002
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2000,
+    "Solar Capacity": 0.019
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2001,
+    "Solar Capacity": 0.02
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2002,
+    "Solar Capacity": 0.022
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2003,
+    "Solar Capacity": 0.026000000000000002
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2004,
+    "Solar Capacity": 0.031
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2005,
+    "Solar Capacity": 0.034
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2006,
+    "Solar Capacity": 0.045
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2007,
+    "Solar Capacity": 0.11
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2008,
+    "Solar Capacity": 0.483
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2009,
+    "Solar Capacity": 1.264
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2010,
+    "Solar Capacity": 3.592
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2011,
+    "Solar Capacity": 13.131
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2012,
+    "Solar Capacity": 16.785
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2013,
+    "Solar Capacity": 18.185
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2014,
+    "Solar Capacity": 18.594
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2015,
+    "Solar Capacity": 18.901
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2016,
+    "Solar Capacity": 19.283
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2017,
+    "Solar Capacity": 19.682293
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2018,
+    "Solar Capacity": 20.107590000000002
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2019,
+    "Solar Capacity": 20.865275
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2020,
+    "Solar Capacity": 21.65004
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2021,
+    "Solar Capacity": 22.692040000000002
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 1996,
+    "Solar Capacity": 0.06
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 1997,
+    "Solar Capacity": 0.091
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 1998,
+    "Solar Capacity": 0.133
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 1999,
+    "Solar Capacity": 0.209
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2000,
+    "Solar Capacity": 0.33
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2001,
+    "Solar Capacity": 0.453
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2002,
+    "Solar Capacity": 0.637
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2003,
+    "Solar Capacity": 0.86
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2004,
+    "Solar Capacity": 1.1320000000000001
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2005,
+    "Solar Capacity": 1.422
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2006,
+    "Solar Capacity": 1.708
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2007,
+    "Solar Capacity": 1.919
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2008,
+    "Solar Capacity": 2.144
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2009,
+    "Solar Capacity": 2.6270000000000002
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2010,
+    "Solar Capacity": 3.618
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2011,
+    "Solar Capacity": 4.914
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2012,
+    "Solar Capacity": 6.632000000000001
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2013,
+    "Solar Capacity": 13.599
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2014,
+    "Solar Capacity": 23.339000000000002
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2015,
+    "Solar Capacity": 34.15
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2016,
+    "Solar Capacity": 42.04
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2017,
+    "Solar Capacity": 49.5
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2018,
+    "Solar Capacity": 56.162
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2019,
+    "Solar Capacity": 63.192
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2020,
+    "Solar Capacity": 69.764
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2021,
+    "Solar Capacity": 74.191
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2000,
+    "Solar Capacity": 0.000015
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2001,
+    "Solar Capacity": 0.000015
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2002,
+    "Solar Capacity": 0.000015
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2003,
+    "Solar Capacity": 0.000015
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2004,
+    "Solar Capacity": 0.000015
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2005,
+    "Solar Capacity": 0.000015
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2006,
+    "Solar Capacity": 0.000015
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2007,
+    "Solar Capacity": 0.000015
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2008,
+    "Solar Capacity": 0.000015
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2009,
+    "Solar Capacity": 0.000015
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2010,
+    "Solar Capacity": 0.000015
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2011,
+    "Solar Capacity": 0.000042999999999999995
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2012,
+    "Solar Capacity": 0.000073
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2013,
+    "Solar Capacity": 0.00014099999999999998
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2014,
+    "Solar Capacity": 0.000236
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2015,
+    "Solar Capacity": 0.005557
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2016,
+    "Solar Capacity": 0.28659300000000004
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2017,
+    "Solar Capacity": 0.39658800000000005
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2018,
+    "Solar Capacity": 0.6996230000000001
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2019,
+    "Solar Capacity": 1.18567
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2020,
+    "Solar Capacity": 1.448375
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2021,
+    "Solar Capacity": 1.520575
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.0011
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.009485
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.014947
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.017216000000000002
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.019419000000000002
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 0.022633
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 0.028739999999999998
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 0.029319
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 0.046556
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 0.05128
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 0.069824
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 0.115948
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 0.810338
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 1.4378330000000001
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 2.3377800000000004
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 4.502354
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 7.127592
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 12.678287000000001
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 21.732004
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 32.703129000000004
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 50.293746
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 67.738734
+  },
+  {
+    "Entity": "Lower-middle-income countries",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 79.343734
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2007,
+    "Solar Capacity": 0.00045000000000000004
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2008,
+    "Solar Capacity": 0.00054
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2009,
+    "Solar Capacity": 0.00054
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2010,
+    "Solar Capacity": 0.0005440000000000001
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2011,
+    "Solar Capacity": 0.0005440000000000001
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2012,
+    "Solar Capacity": 0.031584
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2013,
+    "Solar Capacity": 0.13867400000000002
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2014,
+    "Solar Capacity": 0.20538800000000001
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2015,
+    "Solar Capacity": 0.26628500000000005
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2016,
+    "Solar Capacity": 0.344108
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2017,
+    "Solar Capacity": 0.393808
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2018,
+    "Solar Capacity": 0.5450750000000001
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2019,
+    "Solar Capacity": 0.893595
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2020,
+    "Solar Capacity": 1.482597
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2021,
+    "Solar Capacity": 1.786747
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1996,
+    "Solar Capacity": 0.01
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1997,
+    "Solar Capacity": 0.011
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1998,
+    "Solar Capacity": 0.012
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1999,
+    "Solar Capacity": 0.013000000000000001
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2000,
+    "Solar Capacity": 0.014
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2001,
+    "Solar Capacity": 0.015
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2002,
+    "Solar Capacity": 0.016
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2003,
+    "Solar Capacity": 0.016
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2004,
+    "Solar Capacity": 0.016
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2005,
+    "Solar Capacity": 0.016
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2006,
+    "Solar Capacity": 0.016
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2007,
+    "Solar Capacity": 0.019
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2008,
+    "Solar Capacity": 0.019
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2009,
+    "Solar Capacity": 0.0251
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2010,
+    "Solar Capacity": 0.0298
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2011,
+    "Solar Capacity": 0.0424
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2012,
+    "Solar Capacity": 0.0728
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2013,
+    "Solar Capacity": 0.109
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2014,
+    "Solar Capacity": 0.17400000000000002
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2015,
+    "Solar Capacity": 0.28700000000000003
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2016,
+    "Solar Capacity": 0.6326
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2017,
+    "Solar Capacity": 1.12574
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2018,
+    "Solar Capacity": 2.541
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2019,
+    "Solar Capacity": 4.426208
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2020,
+    "Solar Capacity": 5.149
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2021,
+    "Solar Capacity": 7.026
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.0003
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.0003
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.0004
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.000365
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.00037
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.00037
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.00037
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 0.0004
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 0.0014
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 0.001742
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 0.0022730000000000003
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 0.004423
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 0.036113
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 0.084823
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 0.208583
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 0.302721
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 0.46261
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 0.712524
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 0.969952
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 1.47552
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 2.110663
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 3.253536
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 5.732761000000001
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 7.03054
+  },
+  {
+    "Entity": "Middle East (BP)",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 7.969056
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2000,
+    "Solar Capacity": 0.0067
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2001,
+    "Solar Capacity": 0.007
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2002,
+    "Solar Capacity": 0.0077
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2003,
+    "Solar Capacity": 0.008400000000000001
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2004,
+    "Solar Capacity": 0.0091
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2005,
+    "Solar Capacity": 0.01
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2006,
+    "Solar Capacity": 0.0108
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2007,
+    "Solar Capacity": 0.011945
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2008,
+    "Solar Capacity": 0.012845
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2009,
+    "Solar Capacity": 0.013445
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2010,
+    "Solar Capacity": 0.013545
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2011,
+    "Solar Capacity": 0.014173999999999999
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2012,
+    "Solar Capacity": 0.015174
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2013,
+    "Solar Capacity": 0.015174
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2014,
+    "Solar Capacity": 0.019600000000000003
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2015,
+    "Solar Capacity": 0.0198
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2016,
+    "Solar Capacity": 0.02187
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2017,
+    "Solar Capacity": 0.023895
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2018,
+    "Solar Capacity": 0.193895
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2019,
+    "Solar Capacity": 0.193903
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2020,
+    "Solar Capacity": 0.194
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2021,
+    "Solar Capacity": 0.2343
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1996,
+    "Solar Capacity": 0.0007
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1997,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1998,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1999,
+    "Solar Capacity": 0.005
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2000,
+    "Solar Capacity": 0.013000000000000001
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2001,
+    "Solar Capacity": 0.021
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2002,
+    "Solar Capacity": 0.026000000000000002
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2003,
+    "Solar Capacity": 0.046
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2004,
+    "Solar Capacity": 0.05
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2005,
+    "Solar Capacity": 0.051000000000000004
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2006,
+    "Solar Capacity": 0.053
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2007,
+    "Solar Capacity": 0.054
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2008,
+    "Solar Capacity": 0.059000000000000004
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2009,
+    "Solar Capacity": 0.069
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2010,
+    "Solar Capacity": 0.09
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2011,
+    "Solar Capacity": 0.149
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2012,
+    "Solar Capacity": 0.28700000000000003
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2013,
+    "Solar Capacity": 0.65
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2014,
+    "Solar Capacity": 1.0070000000000001
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2015,
+    "Solar Capacity": 1.526
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2016,
+    "Solar Capacity": 2.1350000000000002
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2017,
+    "Solar Capacity": 2.911
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2018,
+    "Solar Capacity": 4.6080000000000005
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2019,
+    "Solar Capacity": 7.226
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2020,
+    "Solar Capacity": 10.94972
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2021,
+    "Solar Capacity": 14.249
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0.0269
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.0286
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.032200000000000006
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.0366
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.198599
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.23880400000000002
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.28297500000000003
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.32312799999999997
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 0.395376
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 0.52966797
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 0.738872
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 1.025228
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 1.2132280000000002
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 1.7496120000000002
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 3.191528
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 5.846879
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 8.980956
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 13.083156
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 18.006156
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 24.883156
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 36.669758
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 45.868527
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 55.961688
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 67.33521
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 82.81869999999999
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 104.88262
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0.0269
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.0286
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.032200000000000006
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.0356
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.197
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.23700000000000002
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.281
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.321
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 0.393
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 0.527
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 0.736
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 1.022
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 1.21
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 1.7461
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 3.1878
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 5.8424
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 8.9758
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 13.078
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 18.001
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 24.490000000000002
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 36.2556
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 45.41474
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 55.44814
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 66.82133999999999
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 82.304836
+  },
+  {
+    "Entity": "North America (BP)",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 104.36875
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0.016
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.019
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.023
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.025
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.025
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.029
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.034
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.039
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 0.046
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 0.052000000000000005
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 0.061
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 0.07
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 0.082
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 0.329
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 1.088
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 2.47
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 3.7960000000000003
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 4.565
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 5.284
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 5.9430000000000005
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 6.686
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 7.352
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 8.623
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 12.967
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 17.342
+  },
+  {
+    "Entity": "Oceania",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 19.074
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2007,
+    "Solar Capacity": 0.00014000000000000001
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2008,
+    "Solar Capacity": 0.00114
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2009,
+    "Solar Capacity": 0.00667
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2010,
+    "Solar Capacity": 0.009275
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2011,
+    "Solar Capacity": 0.018632000000000003
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2012,
+    "Solar Capacity": 0.045783000000000004
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2013,
+    "Solar Capacity": 0.100658
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2014,
+    "Solar Capacity": 0.165363
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2015,
+    "Solar Capacity": 0.265512
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2016,
+    "Solar Capacity": 0.5895050000000001
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2017,
+    "Solar Capacity": 0.6546989999999999
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2018,
+    "Solar Capacity": 0.6791090000000001
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2019,
+    "Solar Capacity": 0.763313
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2020,
+    "Solar Capacity": 0.860313
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2021,
+    "Solar Capacity": 1.0833130000000002
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2004,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2005,
+    "Solar Capacity": 0.00202
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2006,
+    "Solar Capacity": 0.00202
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2007,
+    "Solar Capacity": 0.00202
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2008,
+    "Solar Capacity": 0.00202
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2009,
+    "Solar Capacity": 0.00202
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2010,
+    "Solar Capacity": 0.00202
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2011,
+    "Solar Capacity": 0.00202
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2012,
+    "Solar Capacity": 0.00202
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2013,
+    "Solar Capacity": 0.0030470000000000002
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2014,
+    "Solar Capacity": 0.027736999999999998
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2015,
+    "Solar Capacity": 0.17255
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2016,
+    "Solar Capacity": 0.784145
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2017,
+    "Solar Capacity": 0.908376
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2018,
+    "Solar Capacity": 0.916961
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2019,
+    "Solar Capacity": 0.982246
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2020,
+    "Solar Capacity": 1.057881
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2021,
+    "Solar Capacity": 1.369734
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2007,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2008,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2009,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2010,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2011,
+    "Solar Capacity": 0.00111
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2012,
+    "Solar Capacity": 0.0013000000000000002
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2013,
+    "Solar Capacity": 0.0023929999999999997
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2014,
+    "Solar Capacity": 0.02715
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2015,
+    "Solar Capacity": 0.107777
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2016,
+    "Solar Capacity": 0.18724700000000002
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2017,
+    "Solar Capacity": 0.28709100000000004
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2018,
+    "Solar Capacity": 0.561976
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2019,
+    "Solar Capacity": 1.5392590000000002
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2020,
+    "Solar Capacity": 3.9549630000000002
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2021,
+    "Solar Capacity": 6.256754
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1996,
+    "Solar Capacity": 0.0004
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1997,
+    "Solar Capacity": 0.0005
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1998,
+    "Solar Capacity": 0.0006
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1999,
+    "Solar Capacity": 0.0009000000000000001
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2000,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2001,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2002,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2003,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2004,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2005,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2006,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2007,
+    "Solar Capacity": 0.024
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2008,
+    "Solar Capacity": 0.059000000000000004
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2009,
+    "Solar Capacity": 0.115
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2010,
+    "Solar Capacity": 0.134
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2011,
+    "Solar Capacity": 0.17200000000000001
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2012,
+    "Solar Capacity": 0.23800000000000002
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2013,
+    "Solar Capacity": 0.296
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2014,
+    "Solar Capacity": 0.41500000000000004
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2015,
+    "Solar Capacity": 0.447
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2016,
+    "Solar Capacity": 0.512824
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2017,
+    "Solar Capacity": 0.579236
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2018,
+    "Solar Capacity": 0.6674310000000001
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2019,
+    "Solar Capacity": 0.901438
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2020,
+    "Solar Capacity": 1.100292
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2021,
+    "Solar Capacity": 1.801292
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2007,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2008,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2009,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2010,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2011,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2012,
+    "Solar Capacity": 0.041
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2013,
+    "Solar Capacity": 0.761
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2014,
+    "Solar Capacity": 1.293
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2015,
+    "Solar Capacity": 1.326
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2016,
+    "Solar Capacity": 1.372
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2017,
+    "Solar Capacity": 1.374129
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2018,
+    "Solar Capacity": 1.38582
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2019,
+    "Solar Capacity": 1.397705
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2020,
+    "Solar Capacity": 1.382539
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2021,
+    "Solar Capacity": 1.397539
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2007,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2008,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2009,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2010,
+    "Solar Capacity": 0.00001
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2011,
+    "Solar Capacity": 0.000023
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2012,
+    "Solar Capacity": 0.000093
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2013,
+    "Solar Capacity": 0.001259
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2014,
+    "Solar Capacity": 0.005
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2015,
+    "Solar Capacity": 0.06132
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2016,
+    "Solar Capacity": 0.07632
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2017,
+    "Solar Capacity": 0.22532
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2018,
+    "Solar Capacity": 0.53532
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2019,
+    "Solar Capacity": 1.27632
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2020,
+    "Solar Capacity": 1.4278199999999999
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2021,
+    "Solar Capacity": 1.66102
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2007,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2008,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2009,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2010,
+    "Solar Capacity": 0.019
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2011,
+    "Solar Capacity": 0.496
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2012,
+    "Solar Capacity": 0.513
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2013,
+    "Solar Capacity": 0.533
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2014,
+    "Solar Capacity": 0.533
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2015,
+    "Solar Capacity": 0.533
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2016,
+    "Solar Capacity": 0.533
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2017,
+    "Solar Capacity": 0.528
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2018,
+    "Solar Capacity": 0.47200000000000003
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2019,
+    "Solar Capacity": 0.59
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2020,
+    "Solar Capacity": 0.535
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2021,
+    "Solar Capacity": 0.535
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 1997,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 1998,
+    "Solar Capacity": 0.004
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 1999,
+    "Solar Capacity": 0.006
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2007,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2008,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2009,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2010,
+    "Solar Capacity": 0.0019590000000000002
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2011,
+    "Solar Capacity": 0.005658000000000001
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2012,
+    "Solar Capacity": 0.011303
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2013,
+    "Solar Capacity": 0.261625
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2014,
+    "Solar Capacity": 1.062901
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2015,
+    "Solar Capacity": 1.2516559999999999
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2016,
+    "Solar Capacity": 1.974026
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2017,
+    "Solar Capacity": 3.1467300000000002
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2018,
+    "Solar Capacity": 4.4009290000000005
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2019,
+    "Solar Capacity": 4.404991
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2020,
+    "Solar Capacity": 5.489578000000001
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2021,
+    "Solar Capacity": 5.721095
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.000025
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.000062
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.000062
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.00074200004
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 0.000744
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 0.000744
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 0.000744
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 0.000744
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 0.00079
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 0.00084000003
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 0.00088
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 0.0073490000000000005
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 0.01486
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 0.035785
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 0.249949
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 0.630185
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 1.261595
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 3.024593
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 4.7632579999999995
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 7.7090000000000005
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 11.84873
+  },
+  {
+    "Entity": "South America",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 18.486299
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2000,
+    "Solar Capacity": 0.004
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2001,
+    "Solar Capacity": 0.005
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2002,
+    "Solar Capacity": 0.005
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2003,
+    "Solar Capacity": 0.006
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2004,
+    "Solar Capacity": 0.009000000000000001
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2005,
+    "Solar Capacity": 0.014
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2006,
+    "Solar Capacity": 0.036000000000000004
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2007,
+    "Solar Capacity": 0.081
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2008,
+    "Solar Capacity": 0.357
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2009,
+    "Solar Capacity": 0.524
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2010,
+    "Solar Capacity": 0.65
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2011,
+    "Solar Capacity": 0.73
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2012,
+    "Solar Capacity": 1.024
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2013,
+    "Solar Capacity": 1.555
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2014,
+    "Solar Capacity": 2.481
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2015,
+    "Solar Capacity": 3.615
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2016,
+    "Solar Capacity": 4.502
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2017,
+    "Solar Capacity": 5.835
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2018,
+    "Solar Capacity": 8.099
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2019,
+    "Solar Capacity": 11.952
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2020,
+    "Solar Capacity": 14.574791
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2021,
+    "Solar Capacity": 18.160574
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.004522
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.007367
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.009670999999999999
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.01242
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 0.014613
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 0.017013
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 0.022773
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 0.028982
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 0.037997
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 0.062194000000000006
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 0.11973900000000001
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 0.18816200000000002
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 0.36550299999999997
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 0.47933800000000004
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 0.807515
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 1.902919
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 2.756455
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 5.282814999999999
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 7.508274
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 11.024064000000001
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 15.544097
+  },
+  {
+    "Entity": "South and Central America (BP)",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 22.816423999999998
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1996,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1997,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1998,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1999,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2000,
+    "Solar Capacity": 0.01
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2001,
+    "Solar Capacity": 0.013000000000000001
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2002,
+    "Solar Capacity": 0.017
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2003,
+    "Solar Capacity": 0.022
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2004,
+    "Solar Capacity": 0.033
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2005,
+    "Solar Capacity": 0.052000000000000005
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2006,
+    "Solar Capacity": 0.13
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2007,
+    "Solar Capacity": 0.494
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2008,
+    "Solar Capacity": 3.384
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2009,
+    "Solar Capacity": 3.423
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2010,
+    "Solar Capacity": 3.873
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2011,
+    "Solar Capacity": 4.283
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2012,
+    "Solar Capacity": 4.569
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2013,
+    "Solar Capacity": 4.69
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2014,
+    "Solar Capacity": 4.697
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2015,
+    "Solar Capacity": 4.704
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2016,
+    "Solar Capacity": 4.713
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2017,
+    "Solar Capacity": 4.723
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2018,
+    "Solar Capacity": 4.763607
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2019,
+    "Solar Capacity": 8.839253000000001
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2020,
+    "Solar Capacity": 10.285477
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2021,
+    "Solar Capacity": 13.648477000000002
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1996,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1997,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1998,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1999,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2000,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2001,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2002,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2003,
+    "Solar Capacity": 0.004
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2004,
+    "Solar Capacity": 0.004
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2005,
+    "Solar Capacity": 0.004
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2006,
+    "Solar Capacity": 0.005
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2007,
+    "Solar Capacity": 0.006
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2008,
+    "Solar Capacity": 0.008
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2009,
+    "Solar Capacity": 0.009000000000000001
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2010,
+    "Solar Capacity": 0.011
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2011,
+    "Solar Capacity": 0.012
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2012,
+    "Solar Capacity": 0.024
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2013,
+    "Solar Capacity": 0.043000000000000003
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2014,
+    "Solar Capacity": 0.06
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2015,
+    "Solar Capacity": 0.10400000000000001
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2016,
+    "Solar Capacity": 0.153
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2017,
+    "Solar Capacity": 0.244
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2018,
+    "Solar Capacity": 0.428
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2019,
+    "Solar Capacity": 0.714
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2020,
+    "Solar Capacity": 1.107
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2021,
+    "Solar Capacity": 1.5774000000000001
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 1996,
+    "Solar Capacity": 0.008
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 1997,
+    "Solar Capacity": 0.01
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 1998,
+    "Solar Capacity": 0.012
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 1999,
+    "Solar Capacity": 0.013000000000000001
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2000,
+    "Solar Capacity": 0.016
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2001,
+    "Solar Capacity": 0.018000000000000002
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2002,
+    "Solar Capacity": 0.02
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2003,
+    "Solar Capacity": 0.022
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2004,
+    "Solar Capacity": 0.024
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2005,
+    "Solar Capacity": 0.028
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2006,
+    "Solar Capacity": 0.03
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2007,
+    "Solar Capacity": 0.037
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2008,
+    "Solar Capacity": 0.049
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2009,
+    "Solar Capacity": 0.079
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2010,
+    "Solar Capacity": 0.125
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2011,
+    "Solar Capacity": 0.223
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2012,
+    "Solar Capacity": 0.437
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2013,
+    "Solar Capacity": 0.756
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2014,
+    "Solar Capacity": 1.061
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2015,
+    "Solar Capacity": 1.3940000000000001
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2016,
+    "Solar Capacity": 1.6640000000000001
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2017,
+    "Solar Capacity": 1.9060000000000001
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2018,
+    "Solar Capacity": 2.173
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2019,
+    "Solar Capacity": 2.498
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2020,
+    "Solar Capacity": 2.9733899999999998
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2021,
+    "Solar Capacity": 3.44878
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2000,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2001,
+    "Solar Capacity": 0.0002
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2002,
+    "Solar Capacity": 0.00033
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2003,
+    "Solar Capacity": 0.00045000000000000004
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2004,
+    "Solar Capacity": 0.00057
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2005,
+    "Solar Capacity": 0.0010400000000000001
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2006,
+    "Solar Capacity": 0.00141
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2007,
+    "Solar Capacity": 0.00244
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2008,
+    "Solar Capacity": 0.00558
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2009,
+    "Solar Capacity": 0.00951
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2010,
+    "Solar Capacity": 0.034555
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2011,
+    "Solar Capacity": 0.129912
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2012,
+    "Solar Capacity": 0.23128100000000001
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2013,
+    "Solar Capacity": 0.40993799999999997
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2014,
+    "Solar Capacity": 0.635951
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2015,
+    "Solar Capacity": 0.884251
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2016,
+    "Solar Capacity": 1.245055
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2017,
+    "Solar Capacity": 1.767702
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2018,
+    "Solar Capacity": 2.738119
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2019,
+    "Solar Capacity": 4.149539
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2020,
+    "Solar Capacity": 5.817205
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2021,
+    "Solar Capacity": 7.700213
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2006,
+    "Solar Capacity": 0.03041
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2007,
+    "Solar Capacity": 0.03225
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2008,
+    "Solar Capacity": 0.032350000000000004
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2009,
+    "Solar Capacity": 0.037
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2010,
+    "Solar Capacity": 0.048600000000000004
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2011,
+    "Solar Capacity": 0.0787
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2012,
+    "Solar Capacity": 0.3767
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2013,
+    "Solar Capacity": 0.8235
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2014,
+    "Solar Capacity": 1.2985
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2015,
+    "Solar Capacity": 1.4196
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2016,
+    "Solar Capacity": 2.4461
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2017,
+    "Solar Capacity": 2.6972600000000004
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2018,
+    "Solar Capacity": 2.96244
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2019,
+    "Solar Capacity": 2.98262
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2020,
+    "Solar Capacity": 2.98262
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2021,
+    "Solar Capacity": 3.0436199999999998
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2000,
+    "Solar Capacity": 0.0001
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2001,
+    "Solar Capacity": 0.0003
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2002,
+    "Solar Capacity": 0.0006
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2003,
+    "Solar Capacity": 0.001
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2004,
+    "Solar Capacity": 0.0015
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2005,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2006,
+    "Solar Capacity": 0.0025
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2007,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2008,
+    "Solar Capacity": 0.0037
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2009,
+    "Solar Capacity": 0.0047
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2010,
+    "Solar Capacity": 0.0057
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2011,
+    "Solar Capacity": 0.0067
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2012,
+    "Solar Capacity": 0.0117
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2013,
+    "Solar Capacity": 0.0177
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2014,
+    "Solar Capacity": 0.04
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2015,
+    "Solar Capacity": 0.249
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2016,
+    "Solar Capacity": 0.833
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2017,
+    "Solar Capacity": 3.4207
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2018,
+    "Solar Capacity": 5.062608
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2019,
+    "Solar Capacity": 5.995155
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2020,
+    "Solar Capacity": 6.667355
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2021,
+    "Solar Capacity": 7.815555000000001
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2007,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2008,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2009,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2010,
+    "Solar Capacity": 0.0025
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2011,
+    "Solar Capacity": 0.1882
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2012,
+    "Solar Capacity": 0.37160000000000004
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2013,
+    "Solar Capacity": 0.7484
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2014,
+    "Solar Capacity": 0.8191
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2015,
+    "Solar Capacity": 0.8412000000000001
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2016,
+    "Solar Capacity": 0.9547000000000001
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2017,
+    "Solar Capacity": 1.2
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2018,
+    "Solar Capacity": 2.002688
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2019,
+    "Solar Capacity": 5.935688
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2020,
+    "Solar Capacity": 7.331
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2021,
+    "Solar Capacity": 8.062
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 1996,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 1997,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 1998,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 1999,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2000,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2001,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2002,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2003,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2004,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2005,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2006,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2007,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2008,
+    "Solar Capacity": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2009,
+    "Solar Capacity": 0.010076
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2010,
+    "Solar Capacity": 0.010826
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2011,
+    "Solar Capacity": 0.012751
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2012,
+    "Solar Capacity": 0.013205999999999999
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2013,
+    "Solar Capacity": 0.025802
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2014,
+    "Solar Capacity": 0.033171
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2015,
+    "Solar Capacity": 0.033406
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2016,
+    "Solar Capacity": 0.040406
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2017,
+    "Solar Capacity": 0.255036
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2018,
+    "Solar Capacity": 0.498305
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2019,
+    "Solar Capacity": 1.8178699999999999
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2020,
+    "Solar Capacity": 2.205397
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2021,
+    "Solar Capacity": 2.605047
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1996,
+    "Solar Capacity": 0.0002
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1997,
+    "Solar Capacity": 0.0004
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1998,
+    "Solar Capacity": 0.0005
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1999,
+    "Solar Capacity": 0.0009000000000000001
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2000,
+    "Solar Capacity": 0.002
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2001,
+    "Solar Capacity": 0.003
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2002,
+    "Solar Capacity": 0.004
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2003,
+    "Solar Capacity": 0.006
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2004,
+    "Solar Capacity": 0.008
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2005,
+    "Solar Capacity": 0.011
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2006,
+    "Solar Capacity": 0.014
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2007,
+    "Solar Capacity": 0.018000000000000002
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2008,
+    "Solar Capacity": 0.023
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2009,
+    "Solar Capacity": 0.027
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2010,
+    "Solar Capacity": 0.095
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2011,
+    "Solar Capacity": 1
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2012,
+    "Solar Capacity": 1.7530000000000001
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2013,
+    "Solar Capacity": 2.9370000000000003
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2014,
+    "Solar Capacity": 5.5280000000000005
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2015,
+    "Solar Capacity": 9.601218999999999
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2016,
+    "Solar Capacity": 11.914
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2017,
+    "Solar Capacity": 12.76
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2018,
+    "Solar Capacity": 13.073
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2019,
+    "Solar Capacity": 13.346
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2020,
+    "Solar Capacity": 13.46248
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2021,
+    "Solar Capacity": 13.689
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1996,
+    "Solar Capacity": 0.013900000000000001
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1997,
+    "Solar Capacity": 0.0146
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1998,
+    "Solar Capacity": 0.0152
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1999,
+    "Solar Capacity": 0.0166
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2000,
+    "Solar Capacity": 0.176
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2001,
+    "Solar Capacity": 0.213
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2002,
+    "Solar Capacity": 0.255
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2003,
+    "Solar Capacity": 0.293
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2004,
+    "Solar Capacity": 0.363
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2005,
+    "Solar Capacity": 0.493
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2006,
+    "Solar Capacity": 0.6980000000000001
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2007,
+    "Solar Capacity": 0.974
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2008,
+    "Solar Capacity": 1.153
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2009,
+    "Solar Capacity": 1.614
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2010,
+    "Solar Capacity": 2.9090000000000003
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2011,
+    "Solar Capacity": 5.172
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2012,
+    "Solar Capacity": 8.137
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2013,
+    "Solar Capacity": 11.759
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2014,
+    "Solar Capacity": 15.984
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2015,
+    "Solar Capacity": 21.684
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2016,
+    "Solar Capacity": 32.958
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2017,
+    "Solar Capacity": 41.357
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2018,
+    "Solar Capacity": 49.812
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2019,
+    "Solar Capacity": 59.068
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2020,
+    "Solar Capacity": 73.8137
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2021,
+    "Solar Capacity": 93.71301600000001
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 1996,
+    "Solar Capacity": 0.011
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 1997,
+    "Solar Capacity": 0.0155
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 1998,
+    "Solar Capacity": 0.021
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 1999,
+    "Solar Capacity": 0.029
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2000,
+    "Solar Capacity": 0.047655003
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2001,
+    "Solar Capacity": 0.053397
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2002,
+    "Solar Capacity": 0.073207
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2003,
+    "Solar Capacity": 0.084356995
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2004,
+    "Solar Capacity": 0.094859
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2005,
+    "Solar Capacity": 0.15995900000000002
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2006,
+    "Solar Capacity": 0.209869
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2007,
+    "Solar Capacity": 0.254489
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2008,
+    "Solar Capacity": 0.309595
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2009,
+    "Solar Capacity": 0.48509497
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2010,
+    "Solar Capacity": 1.1344079999999999
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2011,
+    "Solar Capacity": 3.4042173
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2012,
+    "Solar Capacity": 8.288913
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2013,
+    "Solar Capacity": 20.901484
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2014,
+    "Solar Capacity": 33.521773
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2015,
+    "Solar Capacity": 49.487402
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2016,
+    "Solar Capacity": 86.91714
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2017,
+    "Solar Capacity": 145.83273000000003
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2018,
+    "Solar Capacity": 196.80760999999998
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2019,
+    "Solar Capacity": 233.24031
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2020,
+    "Solar Capacity": 289.18834000000004
+  },
+  {
+    "Entity": "Upper-middle-income countries",
+    "Code": "",
+    "Year": 2021,
+    "Solar Capacity": 351.68762
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2000,
+    "Solar Capacity": 0.000002
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2001,
+    "Solar Capacity": 0.000108
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2002,
+    "Solar Capacity": 0.000236
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2003,
+    "Solar Capacity": 0.00040600000000000006
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2004,
+    "Solar Capacity": 0.000747
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2005,
+    "Solar Capacity": 0.001885
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2006,
+    "Solar Capacity": 0.003424
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2007,
+    "Solar Capacity": 0.003424
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2008,
+    "Solar Capacity": 0.003424
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2009,
+    "Solar Capacity": 0.0035150000000000003
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2010,
+    "Solar Capacity": 0.004518
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2011,
+    "Solar Capacity": 0.004518
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2012,
+    "Solar Capacity": 0.004518
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2013,
+    "Solar Capacity": 0.004518
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2014,
+    "Solar Capacity": 0.00529
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2015,
+    "Solar Capacity": 0.00529
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2016,
+    "Solar Capacity": 0.00529
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2017,
+    "Solar Capacity": 0.007992
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2018,
+    "Solar Capacity": 0.104992
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2019,
+    "Solar Capacity": 4.9934899999999995
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2020,
+    "Solar Capacity": 16.660490000000003
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2021,
+    "Solar Capacity": 16.660490000000003
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1996,
+    "Solar Capacity": 0.17181242
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1997,
+    "Solar Capacity": 0.23173727
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1998,
+    "Solar Capacity": 0.30496213
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1999,
+    "Solar Capacity": 0.4235994
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2000,
+    "Solar Capacity": 0.808669
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2001,
+    "Solar Capacity": 1.0929860000000002
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2002,
+    "Solar Capacity": 1.437059
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2003,
+    "Solar Capacity": 1.96503
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2004,
+    "Solar Capacity": 3.0519789999999998
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2005,
+    "Solar Capacity": 4.548119
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2006,
+    "Solar Capacity": 6.093193
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2007,
+    "Solar Capacity": 8.506466
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2008,
+    "Solar Capacity": 14.729541
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2009,
+    "Solar Capacity": 22.844467
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2010,
+    "Solar Capacity": 40.33781
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2011,
+    "Solar Capacity": 72.21597
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2012,
+    "Solar Capacity": 101.74533000000001
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2013,
+    "Solar Capacity": 137.22697
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2014,
+    "Solar Capacity": 175.61717000000002
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2015,
+    "Solar Capacity": 223.20360000000002
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2016,
+    "Solar Capacity": 295.2289
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2017,
+    "Solar Capacity": 390.20653000000004
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2018,
+    "Solar Capacity": 483.0118
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2019,
+    "Solar Capacity": 584.6857
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2020,
+    "Solar Capacity": 710.2811
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2021,
+    "Solar Capacity": 843.0860600000001
+  }
+]
