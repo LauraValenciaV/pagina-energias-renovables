@@ -1,50 +1,79 @@
-// Esta función la uso para conectarme con mi servidor y traer los datos de energía renovable
 async function obtenerPorcentajeEnergiaRenovable() {
     try {
-        const response = await fetch('http://127.0.0.1:5000/api/renewableShareEnergy');// Hago la solicitud al backend en esta URL
-        const data = await response.json();  // Espero a que la respuesta se convierta en un objeto JSON      
-        document.getElementById('resultadoPorcentajeEnergiaRenovable').textContent = "Datos obtenerPorcentajeEnergiaRenovable() convertidos correctamente.";// Le muestro al usuario (o a mí misma cuando pruebo) que los datos llegaron bien
-        console.log("obtenerPorcentajeEnergiaRenovable")
-        console.log("______________________")
-        return data
-    } catch (error) {// Si algo falla (por ejemplo, si el servidor no responde), muestro el error
+        const response = await fetch('http://127.0.0.1:5000/api/renewableShareEnergy');
+        const data = await response.json();      
+        return data;
+    } catch (error) {
         console.error('Error al obtener datos:', error);
-        return null
+        return null;
     }
 }
 
-async function trabajarConDatosRenovables() {// Esta función la uso para tomar los datos y construir una tabla con ellos
-    const datos = await obtenerPorcentajeEnergiaRenovable();// await: Espero a que se carguen los datos antes de continuar
-    
+async function inicializarSelectConEntities() {
+    const datos = await obtenerPorcentajeEnergiaRenovable();
 
-    if (!datos) {// Si los datos no se obtienen bien, muestro un mensaje de error y detengo el resto
-        console.error("No se pudo obtener los datos"); 
+    if (!datos) {
+        console.error("No se pudo obtener los datos");
         return;
     }
 
-    let tabla = "<table border='1'><tr><th>País</th><th>Año</th><th>Porcentaje</th></tr>";// contruyo tabla 
+    const entitiesUnicos = [...new Set(datos.map(d => d.Entity))].sort();
+    const selector = document.getElementById("selectorEntity");
 
-    datos.slice(0, 5).forEach(d => {// Recorro los primeros 5 registros y los convierto en filas de tabla
-        tabla += `<tr>
-                    <td>${d.Entity}</td>
-                    <td>${d.Year}</td>
-                    <td>${d["Renewables (% electricity)"]}</td>
-                  </tr>`;
+    // Limpia el select por si se reinicia
+    selector.innerHTML = "";
+
+    // Opción por defecto
+    const opcionDefault = document.createElement("option");
+    opcionDefault.value = "";
+    opcionDefault.textContent = "Selecciona un país o continente...";
+    selector.appendChild(opcionDefault);
+
+    // Agrega las opciones reales
+    entitiesUnicos.forEach(entity => {
+        const opcion = document.createElement("option");
+        opcion.value = entity;
+        opcion.textContent = entity;
+        selector.appendChild(opcion);
     });
 
-    tabla += "</table>";
+    // Evento de cambio
+    selector.addEventListener("change", function () {
+        const entitySeleccionado = selector.value;
 
-    const contenedor = document.getElementById("cuadroDatosRenovables");// Busco el contenedor en mi HTML donde quiero mostrar mi tabla
-    if (contenedor) { // Si el contenedor existe, le pongo dentro la tabla que construí
-        contenedor.innerHTML = tabla;
-    } else {
-        console.error("El elemento 'cuadroDatosRenovables' no existe en el DOM.");// Si no existe el contenedor, me aviso en consola para saber que algo está mal
-    }
-    console.log(datos)
+        // Limpia resultados si no se selecciona nada
+        if (!entitySeleccionado) {
+            document.getElementById("cuadroDatosEntity").innerHTML = "";
+            return;
+        }
+
+        mostrarDatosPorEntity(entitySeleccionado, datos);
+    });
 }
 
-// Cuando la página termine de cargarse(window.load) ejecute lo que esta adentro.
-window.onload = () => {
-    trabajarConDatosRenovables();
-};
+function mostrarDatosPorEntity(entitySeleccionado, datos) {
+    const datosFiltrados = datos.filter(d => d.Entity === entitySeleccionado);
 
+    const contenedor = document.getElementById("cuadroDatosEntity");
+    contenedor.innerHTML = ""; // Limpia antes de mostrar nuevos datos
+
+    if (datosFiltrados.length === 0) {
+        contenedor.innerHTML = "<p>No se encontraron datos.</p>";
+        return;
+    }
+
+    let tabla = "<table border='1'><tr><th>Año</th><th>Porcentaje</th></tr>";
+    datosFiltrados.forEach(d => {
+        tabla += `<tr>
+                    <td>${d.Year}</td>
+                    <td>${d["Renewables (% equivalent primary energy)"]}</td>
+                  </tr>`;
+    });
+    tabla += "</table>";
+
+    contenedor.innerHTML = tabla;
+}
+
+window.onload = () => {
+    inicializarSelectConEntities();
+};

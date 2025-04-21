@@ -1,8 +1,9 @@
 // Función para obtener los datos de la API
 async function obtenerDatos() {
     try {
-        const respuesta = await fetch('/api/modernRenewableProduction');  // Hacemos la solicitud
+        const respuesta = await fetch('http://127.0.0.1:5000/api/modernRenewableProduction');  // Hacemos la solicitud
         const data = await respuesta.json();  // Convertimos la respuesta a JSON
+        console.log("2")
         return data;  // Retornamos los datos obtenidos
     } catch (error) {
         console.error("Error al obtener los datos:", error);
@@ -63,3 +64,7 @@ document.getElementById('formulario-energia').addEventListener('submit', async f
         alert("Hubo un problema al obtener los datos. Intenta más tarde.");
     }
 });
+window.onload = () => {
+    console.log("Si corre")
+    obtenerDatos()
+};

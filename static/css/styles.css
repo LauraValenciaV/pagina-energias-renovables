@@ -556,7 +556,181 @@ transform: scale(1.05);
   border-radius: 6px;
 }
 
-/* Estilos Energias */
+
+  /*------------------------------------------------------ Estilos tabla global ------------------------------------------------------*/
+ 
+  .slide.slider-img ul {
+    display: flex;
+    width: 100vw;
+    animation: none; 
+
+  }
+ 
+  .slide-button a:-webkit-any-link {
+    color: white;
+    text-decoration: none;
+  }
+  #contenedor-historico{
+    color: white;
+    text-align: center;
+    margin: 100px;
+    padding: 20px 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    /*background-image: url('../assets/images/historico-fondo.png'); /* Reemplazá por tu ruta real */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 500px;
+    border: 1px  solid #DB6600;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.517);
+    text-align: center;
+  
+  }
+  #contenedor-historico h1{
+    margin-bottom: 20px; 
+    font-size: 50px;
+    letter-spacing: -2px;
+
+  }
+  #contenedor-historico h2{
+    color:#5e5d5d;
+    padding:30px;
+    padding: 30px 30px 00px 30px;
+  }
+  #contenedor-historico p{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.938); 
+    line-height: 135%;
+    text-align: justify;
+  }
+ .texto-slider-historico{
+    font-weight: 100;
+    text-align: justify;
+  }
+  #selectorEntity {
+    --arrow-bg: rgba(248, 158, 55, 0.8);
+    --arrow-icon: url(https://upload.wikimedia.org/wikipedia/commons/9/9d/Caret_down_font_awesome_whitevariation.svg);
+    --option-bg: white;
+    --select-bg: rgba(219, 102, 0, 0.8);
+    appearance: none;
+    border: 0;
+    outline: 0;
+    font: inherit;  
+    color: white;
+    border-radius: 0.25em;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-top: 40px;
+    font-weight: 500;
+    padding: 10px 100px;
+    background: var(--arrow-icon) no-repeat right 0.8em center / 1.4em,
+    linear-gradient(to left, var(--arrow-bg) 3em, var(--select-bg) 3em);
+    width: 550px;
+    font-size: 20px;
+    /* Remove IE arrow */
+    &::-ms-expand {
+      display: none;
+    }
+    /* Remove focus outline */
+    &:focus {
+      outline: none;
+    }
+  }
+
+  option {
+    color: inherit;
+    background-color: var(--option-bg);
+  }
+  .padre-scroll {
+    width: auto;   
+    padding: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+   
+    
+  }
+  #cuadroDatosEntity {
+    background-color: #00000000;
+    max-height: 450px; /* o el alto que desees */
+    overflow-y: auto;
+    margin-top: 5vh;
+    margin-bottom: 5vh ;
+    display: flex;
+   
+    
+  }
+  #cuadroDatosEntity table {
+    border-collapse: collapse;
+    padding-bottom: 500px;
+    width: 500px;
+    color: #5e5d5d;
+  }
+  #cuadroDatosEntity table th{
+    background-color:  rgba(219, 102, 0, 0.8);
+    font-weight: 700;
+    font-size: px;
+    color: #ffffff;
+  }
+  #cuadroDatosEntity table tr{
+    height: 40px; 
+    border: none;
+    border-color: #5e5d5d;
+  }
+    #cuadroDatosEntity table tr td{
+    vertical-align: auto;
+    }
+  .padre-scroll img{
+    width: 25px;
+    height: 25px;
+  }
+  .padre-scroll img:hover{ 
+      height: 27px;
+      width: 27px;
+  }
+  .table-section-bottom h5{
+    color:#5e5d5d;
+    font-weight: 300;
+  }
+  
+  .table-section-bottom h5 a:-webkit-any-link {
+    text-decoration: none;
+    color:#5e5d5d;
+}
+  .table-section-bottom h5 a:hover{
+    color:#DB6600;
+  }
+  #cuadroDatosEntity::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  #cuadroDatosEntity::-webkit-scrollbar-track {
+    background: #f0f0f0;
+    border-radius: 10px;
+  }
+  
+  #cuadroDatosEntity::-webkit-scrollbar-thumb {
+    background: rgba(219, 102, 0, 0.8);
+    border-radius: 10px;
+  }
+  
+ ::-webkit-scrollbar-thumb:hover {
+    background: rgba(248, 158, 55, 0.8)
+  }
+  
+  
+  /*------------------------------------------------------ Estilos tabla global ------------------------------------------------------*/
+  
+  
+  /* Estilos Energias */
 
 .seccion-energia {
   display: flex;
@@ -652,6 +826,7 @@ transform: scale(1.05);
 .chart .chart_types button{
   padding: 10px 25px;
 }
+
 
 
 /* Estilos Footer */
