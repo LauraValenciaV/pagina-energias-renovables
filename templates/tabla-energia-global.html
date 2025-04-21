@@ -5,18 +5,18 @@
     <meta charset="UTF-8">
     <meta name="author" content="grupo 5">
     <title>Energías Renovables En Colombia</title>
-    <link rel="stylesheet" href="../css/styles.css">
-    <link rel="icon" href="../assets/images/Favicon.png">
+    <link rel="stylesheet" href="../static/css/styles.css">
+    <link rel="icon" href="../static/assets/images/Favicon.png">
 </head>
 
 <body>
     <!--contenedor principal-->
 
-    <div class="container">
+    <div>
         <header>
             <!-- nav principal -->
 
-            <div class="wrap-nav">
+            <div>
                 <nav class="navbar">
                     <div class="logo">
                         <img src="../assets/images/Favicon.png" alt="Logo empresa">
@@ -38,22 +38,7 @@
 
                 <!-- Slider de imagenes del home -->
 
-                <div class="slider-container">
-                    <div class="slide">
-                        <ul>
-                            <li><img src="../assets/images/banner-slide1.png" alt=""></li>
-                            <li><img src="../assets/images/banner-slide2.png" alt=""></li>
-                            <li><img src="../assets/images/banner-slider3.png" alt=""></li>
-                            <li><img src="../assets/images/banner-slider4.png" alt=""></li>
-                        </ul>
-                    </div>
-
-                    <div class="slide-text">
-                        <h1>Impulsa el cambio </h1>
-                        <p>Explora cómo las energías renovables están transformando el planeta y construyendo un futuro más limpio y sostenible.</p>
-                        <button class="slide-button">Descubre Más</button>
-                    </div>
-                </div>
+               
             </div>
         </header>
 
@@ -62,16 +47,21 @@
         <main>
             <section class="hero">
                 <div class="overlay">
-                    <h2>¿Qué son las energías renovables?</h2>
-                    <p class="general paragraph">
-                        Las energías renovables son fuentes de energía que se obtienen de la naturaleza y que nunca se
-                        agotan porque se renuevan constantemente.
-                    </p>
-                    <p class="general paragraph">
-                        A diferencia de los combustibles fósiles (como el carbón o el petróleo), las energías renovables
-                        no contaminan y ayudan a cuidar el medio ambiente.
-                    </p>
-                    <button onclick="handleClick()">Comenzar</button>
+                    <h2>Explora la historia de la energía limpia por país </h2>
+                    <div>
+                        <h3>Puedes elegir desde un país hasta un continente y explorar sus datos de energía limpia desde 1965 hasta 2021.</h3>
+                        <div>
+                            <div>
+                                <select id="selectorEntity">
+                                    <option value="">-- Selecciona un pais --</option>
+                                </select>
+                                <button>Enviar</button>
+                            </div>
+                            <div>
+                                <div id="cuadroDatosEntity"></div>
+                            </div>
+                        </div>  
+                    </div>   
                 </div>
             </section>
         </main>
@@ -126,7 +116,7 @@
         </footer>
 
         <!-- Fin del footer -->
-        <script src="js/script.js"></script>
+        <script type="module" src="../js/funcionesTablaGlobal.js"></script>
 
     </div>
 

@@ -226,6 +226,116 @@
     border-radius: 6px;
   }
 
+
+  /*------------------------------------------------------ Estilos tabla global ------------------------------------------------------*/
+
+.overlay-historical-data{
+    background-color: #DB6600;
+    color:white;
+    width: 90%;
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    padding: 9px 30px;
+    background-image: url("../static/assets/images/fondo-historico-global.png");
+    background-repeat: no-repeat; /* Para que no se repita */
+    background-size: cover; /* Cubre todo el contenedor */
+    background-position: center; /* Centra la imagen */
+  }
+  .overlay-historical-data h2{
+    background-color:darkred;
+
+  }
+  .overlay-historical-data h3{
+    background-color:gold;
+    width: 50vw;
+    
+  }
+  .overlay-historical-data h5{
+    font-weight: 100;
+  }
+
+
+.overlay-historical-data h5 a:-webkit-any-link {
+    color: white;
+    text-decoration: none;
+}
+.overlay-historical-data h5 a:hover{
+  color:black;
+}
+
+#selectorEntity {
+  /* Reset */
+  appearance: none;
+  border: 0;
+  outline: 0;
+  font: inherit;
+  /* Personalize */
+  width: 20rem;
+  padding: 1rem 4rem 1rem 1rem;
+  background: var(--arrow-icon) no-repeat right 0.8em center / 1.4em,
+    linear-gradient(to left, var(--arrow-bg) 3em, var(--select-bg) 3em);
+  color: white;
+  border-radius: 0.25em;
+  box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  margin-top: 20px;
+
+  /* Remove IE arrow */
+  &::-ms-expand {
+    display: none;
+  }
+  /* Remove focus outline */
+  &:focus {
+    outline: none;
+  }
+}
+
+  option {
+    color: inherit;
+    background-color: var(--option-bg);
+  }
+  .padre-scroll {
+    max-height: 500px;
+    min-height: 300px;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  .padre-scroll img{
+    width: 25px;
+    height: 25px;
+  }
+  .padre-scroll img:hover{ 
+      height: 27px;
+      width: 27px;
+  }
+  #cuadroDatosEntity {
+    background-color: darkmagenta;
+    max-height: 200px; /* o el alto que desees */
+    width: 500px;
+    overflow-y: auto;
+    margin-top: 5vh;
+    margin-bottom: 5vh ;
+  }
+  
+  #cuadroDatosEntity table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  #cuadroDatosEntity table th{
+   font-weight: 700;
+  }
+  /*------------------------------------------------------ Estilos tabla global ------------------------------------------------------*/
+  
+  
   /* Estilos Footer */
 
   footer {
@@ -344,7 +454,6 @@
 /* Estilo para el título */
 .card h2 {
     font-size: 28px;
-    color: rgb(255, 102, 0);
     margin-bottom: 10px;
 }
 
@@ -426,38 +535,6 @@
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Añade sombra */
   }
 
-
-  /*---------------------------------- Estilos ventana tabla global energias renovables ----------------------------------*/
-  select {
-    /* Reset */
-    appearance: none;
-    border: 0;
-    outline: 0;
-    font: inherit;
-    /* Personalize */
-    width: 20rem;
-    padding: 1rem 4rem 1rem 1rem;
-    background: var(--arrow-icon) no-repeat right 0.8em center / 1.4em,
-      linear-gradient(to left, var(--arrow-bg) 3em, var(--select-bg) 3em);
-    color: white;
-    border-radius: 0.25em;
-    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
-    cursor: pointer;
-    /* Remove IE arrow */
-    &::-ms-expand {
-      display: none;
-    }
-    /* Remove focus outline */
-    &:focus {
-      outline: none;
-    }
-    /* <option> colors */
-    option {
-      color: inherit;
-      background-color: var(--option-bg);
-    }
-  }
-  
 /* Responsividad: cambia a una sola columna en pantallas pequeñas */
 @media (max-width: 768px) {
     .tipos-energia {
@@ -465,6 +542,138 @@
     }
 }
 
+/* Diseño para calculadora */
+.calculadora-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 40px;
+  padding: 40px;
+  flex-wrap: nowrap;
+  max-width: 1400px;
+  margin: 110px auto 40px auto;
+}
+
+.calculadora-card {
+  flex: 1;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.calculadora-card h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: rgb(255, 102, 0);  /* Color del título */
+}
+
+.calculadora-card form {
+  margin-bottom: 20px;
+}
+
+.calculadora-card form label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 16px;
+  color: #333;
+}
+
+.calculadora-card form input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 16px;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.calculadora-card form button {
+  width: 48%; 
+  padding: 12px;
+  background-color: rgb(255, 102, 0);  /* Color del botón */
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.calculadora-card form button:hover {
+  background-color: #e65c00;
+  transform: scale(1.1);  /* Aumenta el tamaño del botón */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Añade sombra */
+}
+
+.calculadora-card .resultados {
+  background-color: #fafafa;
+  padding: 20px;
+  border-radius: 15px;  /* Bordes redondeados */
+  margin-top: 20px;
+  text-align: left;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.calculadora-card .resultados h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.calculadora-card .resultados p {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: #333
+}
 
 
+@media (max-width: 600px) {
+  .calculadora-card {
+    padding: 15px;
+  }
 
+.calculadora-card form input, .calculadora-card form button {
+  font-size: 14px;
+}
+}
+
+/* Estilos para el video */
+.video-container {
+  flex: 1;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: stretch;
+}
+
+/* Iframe que se adapta */
+.video-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+/* Estilo del contenedor del resultado */
+.resultado-tarjeta {
+  background-color: #ffcc99; /* Un color suave de fondo */
+  padding: 20px;
+  border-radius: 15px;  /* Bordes redondeados */
+  margin-top: 10px;
+  font-size: 24px;  /* Tamaño grande para resaltar */
+  font-weight: bold;
+  text-align: center;  /* Alinea el texto al centro */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);  /* Sombra suave */
+  color: rgb(255, 102, 0); /* Un color destacado para el texto */
+}
+
+/* Cambiar el color si el resultado es negativo o no está disponible */
+.resultado-tarjeta.no-disponible {
+  background-color: #f4f4f4; /* Fondo gris suave */
+  color: #777; /* Color gris para el texto */
+}
