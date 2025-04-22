@@ -10,7 +10,7 @@ fetch('../data/json/wind-generation.json')
 
 .then(function(data){
      const selectedCountries = ['Argentina', 'Germany', 'Brazil', 'Canada', 'China', 'Colombia']; 
-     const year = 2021;
+     const year = 2019;
  
      const filtered = data.filter(row => 
        row.Year === year && selectedCountries.includes(row.Entity)

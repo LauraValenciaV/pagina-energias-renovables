@@ -58,7 +58,7 @@
                     <div class="slide-text">
                         <h1>Energía Renovable</h1>
                         <p>Explora cómo las energías renovables están transformando el planeta y construyendo un futuro más limpio y sostenible.</p>
-                        <button class="slide-button">Descubre Más</button>
+                        <a href="#descubrir"><button class="slide-button" >Descubre Más</button></a>
                     </div>
                 </div>
             </div>
@@ -100,7 +100,7 @@
 
               <!-- impacto -->
 
-              <section class="impacto-energia">
+              <section class="impacto-energia" id="descubrir">
                 <div class="contenido-texto">
                   <h2>Impacto Global de la<br> Energía Renovable</h2>
               
@@ -115,13 +115,13 @@
                   </div>
               
                   <div class="botones">
-                    <button class="btn-naranja">Tipos de Energía</button>
-                    <button class="btn-gris">Más información</button>
+                    <a href="tipos-de-energia.html"><button class="btn-naranja">Tipos de Energía</button></a>
+                    <a href="#end-info"><button class="btn-gris">Más información</button></a>
                   </div>
                 </div>
               
                 <div class="contenido-media">
-                    <iframe width="660" height="415" src="https://www.youtube.com/embed/mKqd7gfWuig?si=u0HCxWI8N62wDrYa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                  <iframe width="660" height="415" src="https://www.youtube.com/embed/mKqd7gfWuig?si=obmyeua9U_nEcnsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
               </section>
 
@@ -136,7 +136,7 @@
                       <!-- card 1 -->
 
                     <div class="navega-card">
-                        <img src="../static/assets/images/paneles-image1.png" alt="paneles" />
+                        <a href="dashboard.html"><img src="../static/assets/images/paneles-image1.png" alt="paneles" /></a>
                         <h3>Explorá los datos, visualizá el futuro</h3>
                         <p> Accedé a gráficos, análisis y herramientas interactivas para entender el presente y futuro de la energía</p>
                     </div> 
@@ -203,8 +203,8 @@
             <div class="conoce-mas-contenido">
               <h2>Conoce más</h2>
               <div class="botones-conoce">
-                <button class="btn-naranja">Suscribirse</button>
-                <button class="btn-gris">Más información</button>
+                <a href="tipos-de-energia.html"><button class="btn-naranja">Explorar</button></a>
+                <a href="calcula-consumo.html"><button class="btn-gris">Más información</button></a>
               </div>
             </div>
           </section>
@@ -216,52 +216,76 @@
 
         <!-- Footer -->
         <footer>
-            <div class="footer-content">
-                <div class="footer-left">
-                    <img src="../static/assets/images/Favicon.png" alt="Logo" class="footer-logo" />
-                </div>
-
-                <div class="footer-links">
-                    <div class="footer-column">
-                        <h4>home</h4>
-                        <ul>
-                            <li>energies</li>
-                            <li>Industry</li>
-                        </ul>
-                    </div>
-                    <div class="footer-column">
-                        <h4>contact</h4>
-                        <ul>
-                            <li>email</li>
-                            <li>phone</li>
-                        </ul>
-                    </div>
-                    <div class="footer-column">
-                        <h4>preguntas frecuentes</h4>
-                        <ul>
-                            <li>privacy</li>
-                            <li>Terms</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <div class="footer-bottom">
-                <div class="footer-text">
-                    <p>2025, Company. All Rights Reserved.<br />
-                        The Website and the logo are trademarks of our Company, Inc. Third party trademarks are the
-                        property of their respective owners.</p>
-                </div>
-
-                <div class="footer-icons">
-                    <img src="../static/assets/icons/facebok-icon1.png" alt="Facebook" />
-                    <img src="../static/assets/icons/linkedlin-icon1.png" alt="LinkedIn" />
-                    <img src="../static/assets/icons/youtube-icon1.png" alt="YouTube" />
-                    <img src="../static/assets/icons/instagram-icon1.png" alt="Instagram" />
-                </div>
-            </div>
-
-        </footer>
+          <div class="footer-content">
+              <div class="footer-left">
+                  <a href="/pagina-energias-renovables-main/pages/index.html">
+                      <img src="../static/assets/images/Favicon.png" alt="Logo" class="footer-logo" />
+                  </a>
+              </div>
+      
+              <div class="footer-links">
+                  <div class="footer-column">
+                      <h4>Contenido</h4>
+                      <ul>
+                          <li><a href="../templates/index.html">Inicio</a></li>
+                          <li><a href="../templates/tipos-de-energia.html">Tipos de energía</a></li>
+                          <li><a href="../templates/dashboard.html">Dashboard</a></li>
+                          <li><a href="../templates/calcula-consumo.html">Calculadora de energía</a></li>
+                      </ul>
+                  </div>
+                  <div class="footer-column">
+                      <h4>Creadores:</h4>
+                      <ul>
+                          <li>Sara Álvarez</li>
+                          <li>Laura Valencia</li>
+                          <li>Laura de la Hoz</li>
+                          <li>Esteban Carvajal</li>
+                      </ul>
+                  </div>
+                  <div class="footer-column">
+                      <h4>Contáctanos:</h4>
+                      <ul style="list-style: none; padding: 0;">
+                          <li class="tooltip_footer">
+                              Correos electrónicos
+                              <span class="tooltip_footer-text">
+                                  Esteban: esteban@email.com<br>
+                                  Laura: laura@email.com<br>
+                                  Laura D L H: laura.dlh@email.com<br>
+                                  Sara: sara@email.com
+                              </span>
+                          </li>
+                          <li class="tooltip_footer">
+                              Número de contacto
+                              <span class="tooltip_footer-text">
+                                  Esteban: +57 300 123 4567<br>
+                                  Laura: +57 301 234 5678<br>
+                                  Laura de la H: +57 302 345 6789<br>
+                                  Sara: +57 303 456 7890
+                              </span>
+                          </li>
+                      </ul>
+                  </div>
+              </div>
+          </div>
+      
+          <div class="footer-bottom">
+              <div class="footer-text">
+                  <p>2025, Company. All Rights Reserved.<br />
+                      Este sitio web ha sido programado por estudiantes del programa Talento Tech, en la misión de cumplir 
+                      con su proyecto final, sin fines comerciales.
+                  </p>
+              </div>
+      
+              <div class="footer-icons">
+                  <a href="https://www.talentotech.gov.co/portal/#inicio" target="_blank">
+                      <img src="../static/assets/icons/Talento-Tech-icon.png" alt="TalentoTech" />
+                  </a>
+                  <a href="https://www.youtube.com/watch?v=lWd1AJBXfHM" target="_blank">
+                      <img src="../static/assets/icons/youtube-icon1.png" alt="YouTube" />
+                  </a>
+              </div>
+          </div>
+      </footer>
 
         <!-- Fin del footer -->
         <script src="js/script.js"></script>
