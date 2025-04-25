@@ -8,7 +8,7 @@
 body {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  overflow-x: hidden;
 }
 
 main {
@@ -21,7 +21,7 @@ main {
 }
 
 .container header{
-  height: 100vh;
+  min-height: 100vh;
   width: 100%;
 
 }
@@ -35,7 +35,7 @@ main {
 
 .navbar{
   display: flex;
-  position: fixed;
+  position: absolute;
   padding: 9px 30px;
   top: 20px; 
   left: 20px;
@@ -102,7 +102,7 @@ main {
 .slider-container {
   position: relative;
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   margin: auto;
   overflow: hidden;
 }
@@ -188,10 +188,11 @@ main {
 /*  MAIN Home cards */
 
 .home-cards {
+  height: auto;
   margin-top: 150px;
   padding-bottom: 48px;
   text-align: center;
-  height: 75vh;
+  padding-left: 20px;
 }
 
 .home-cards h2 {
@@ -200,7 +201,8 @@ main {
   font-weight: 600;
   letter-spacing: -2%;   
   text-align: left;
-  padding-left: 335px;
+  margin: 0 auto 20px auto;
+  max-width: 1200px;
 }
 
 .energia-container {
@@ -211,8 +213,9 @@ main {
 }
 
 .energia-card {
-  width: 405px;
-  height: 613px;
+  width: 90%;
+  max-width: 405px;
+  height: auto;
   background-color: #ffffff;
   border-radius: 12px;
   padding: 24px;
@@ -256,7 +259,7 @@ main {
  /* Impacto Section */
 
  .impacto-energia {
-  height: 85vh;
+  height: auto;
   display: flex;
   margin-top: 30px;
   justify-content: center;
@@ -280,8 +283,9 @@ main {
 }
 
 .descripcion {
-  margin-bottom: 48px;
-  width: 513px;
+  width: 100%;
+  max-width: 513px;
+  padding: 0 30px;
 }
 
 .descripcion h3 {
@@ -318,7 +322,7 @@ main {
 }
 
 .btn-gris {
-  background-color:#E6E6E6;
+  background-color:#f0eeee;
   color: #000000;
   border: none;
   padding: 18px 12px;
@@ -344,7 +348,7 @@ transform: scale(1.05);
   margin-top: 100px;
   padding-bottom: 48px;
   text-align: center;
-  height: 85vh;
+  height: auto;
   position: relative;
 }
 
@@ -354,7 +358,8 @@ transform: scale(1.05);
   font-weight: 600;
   letter-spacing: -2%;   
   text-align: left;
-  padding-left: 335px;
+  margin: 0 auto 20px auto;
+  max-width: 1200px;
 }
 
 .navega-container{
@@ -362,9 +367,7 @@ transform: scale(1.05);
   justify-content: center;
   flex-wrap: wrap;
   gap: 32px;
-  position: absolute;
-  top: auto;
-  left: 335px;
+  padding-left: 20px;
   overflow-x: hidden;
 }
 
@@ -384,7 +387,8 @@ transform: scale(1.05);
 }
 
 .navega-card img{
-  width: 625px;
+  width: 100%;
+  max-width: 625px;
   height: auto;
   border-radius: 8px;
   margin-bottom: 16px;
@@ -423,14 +427,13 @@ transform: scale(1.05);
   background-position: center;
   padding: 100px 0;
   color: white;
-  max-height: 536px;
+  height: auto;
 }
 
 .feedback-overlay{
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 40px;
-  transform: translateX(-50px);
 }
 
 .feedback-overlay h2{
@@ -519,7 +522,7 @@ transform: scale(1.05);
 
 /* hero sections */
 .hero{
-  height: 100vh;
+  min-height: 100vh;
   background-position: center;
   display: flex;
   align-items: center;
@@ -556,6 +559,50 @@ transform: scale(1.05);
   border-radius: 6px;
 }
 
+/* hero sections 2 */
+.hero2{
+  min-height: 100vh;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('../assets/images/historico-slider.png');
+  background-size: cover;
+  background-position: center;
+  margin-top: -97px;
+}
+
+.overlay2{
+  text-align: center;
+  color: white;
+
+}
+
+.overlay2 h2{
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.overlay2 p{
+  font-size: 18px;
+  margin-bottom: 30px;
+  max-width: 90%;
+  text-align: center;
+  padding: 0 30px;
+  margin: 0 auto;  
+}
+
+.overlay2 button{
+  background-color: black;
+  color: white;
+  padding: 12px 30px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+
 
   /*------------------------------------------------------ Estilos tabla global ------------------------------------------------------*/
  
@@ -574,7 +621,6 @@ transform: scale(1.05);
     color: white;
     text-align: center;
     margin: 100px;
-    padding: 20px 500px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -589,6 +635,8 @@ transform: scale(1.05);
     padding: 20px;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.517);
     text-align: center;
+    padding: 20px;
+    max-width: 100%;
   
   }
   #contenedor-historico h1{
@@ -670,9 +718,11 @@ transform: scale(1.05);
     
   }
   #cuadroDatosEntity table {
+    width: 90%;
+    max-width: 500px;
+    overflow-x: auto;
     border-collapse: collapse;
     padding-bottom: 500px;
-    width: 500px;
     color: #5e5d5d;
   }
   #cuadroDatosEntity table th{
@@ -750,6 +800,8 @@ transform: scale(1.05);
   flex-direction: column;
   gap: 20px;
   max-width: 500px;
+  padding: 0 30px;
+  text-align: left;
 }
 
 .detalle-energia{
@@ -798,13 +850,15 @@ transform: scale(1.05);
 
 .chart-nut{
   display: flex;
-  max-width: 400px;
   background-color: #fff;
   padding: 30px;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   height: 450px;
   position: relative;
+  max-width: 100%;
+  width: 100%;
+  box-sizing: border-box;
 
 }
 
@@ -833,8 +887,9 @@ transform: scale(1.05);
 /* Estilos Footer */
 
 footer {
+  min-height: 338px;
+  height: auto;
   width: 100%;
-  height: 338px;
   background-color: #1e1e1e;
   padding: 0 66px;
   color: #ccc;
@@ -1225,4 +1280,345 @@ color: rgb(255, 102, 0); /* Un color destacado para el texto */
 .resultado-tarjeta.no-disponible {
 background-color: #f4f4f4; /* Fondo gris suave */
 color: #777; /* Color gris para el texto */
+}
+
+
+
+/* ----------------------------- */
+/* 📱 Media Queries Responsive  */
+/* ----------------------------- */
+
+/* Grandes (≤ 1200px) */
+@media (max-width: 1200px) {
+  .home-cards h2,
+  .navega-sobresitio h2 {
+    padding-left: 40px;
+  }
+
+  .navega-container {
+    left: 40px;
+  }
+
+  .impacto-energia,
+  .seccion-energia {
+    gap: 20px;
+  }
+
+  .conoce-mas-contenido {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+}
+
+/* Medianas (≤ 992px) */
+@media (max-width: 992px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    gap: 12px;
+    padding-top: 10px;
+    padding-left: 0;
+    width: 100%;
+  }
+
+  .icons {
+    position: static;
+    margin-top: 10px;
+  }
+
+  .slide-text h1 {
+    font-size: 32px;
+  }
+
+  .energia-card {
+    width: 100%;
+    height: auto;
+  }
+
+  .contenido-texto {
+    margin-top: 40px;
+    padding: 20px;
+  }
+
+  .impacto-energia {
+    flex-direction: column;
+    height: auto;
+    text-align: center;
+  }
+
+  .contenido-media iframe {
+    width: 100%;
+    height: 300px;
+  }
+
+  .navega-container {
+    position: static;
+    padding: 0 20px;
+  }
+
+  .feedback-cards {
+    justify-content: center;
+  }
+
+  .footer-content,
+  .footer-links {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  /* toogle menu*/
+  .menu-toggle {
+    display: block;
+    position: absolute;
+    top: 15px;
+    right: 60px;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.9);
+    position: absolute;
+    top: 70px; /* justo debajo del navbar */
+    left: 0;
+    width: 100%;
+    padding: 15px 20px;
+    border-radius: 12px;
+    z-index: 999;
+  }
+
+  .nav-links.show {
+    display: flex;
+  }
+
+  .navbar {
+    flex-wrap: wrap;
+  }
+
+  .icons {
+    margin-top: 10px;
+  }
+}
+
+/* Pequeñas (≤ 768px) */
+@media (max-width: 768px) {
+  .slider-container,
+  .slide ul li img {
+    height: 50vh;
+  }
+
+  .slide-text {
+    padding: 10px 20px;
+  }
+
+  .slide-text h1 {
+    font-size: 24px;
+  }
+
+  .slide-text p {
+    font-size: 14px;
+  }
+
+  .slide-button {
+    font-size: 14px;
+    padding: 8px 14px;
+  }
+
+  .home-cards {
+    padding: 0 20px;
+    margin-top: 50px;
+    height: auto;
+  }
+
+  .home-cards h2 {
+    text-align: center;
+    padding-left: 0;
+    font-size: 28px;
+  }
+
+  .navega-sobresitio h2 {
+    padding-left: 0;
+    text-align: center;
+  }
+
+  .navega-card {
+    height: auto;
+    max-width: 100%;
+  }
+
+  .feedback-section {
+    padding: 60px 20px;
+    max-height: none;
+  }
+
+  .feedback-cards {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .seccion-energia {
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .imagen-energia {
+    width: 100%;
+  }
+
+  .charts-row,
+  .charts-row-energy {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .chart,
+  .chart-nut {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .calculadora-card-container {
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .conoce-mas-contenido {
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+  }
+
+  #contenedor-historico {
+    padding: 20px;
+    margin: 20px;
+  }
+
+  #selectorEntity {
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+
+  #cuadroDatosEntity table {
+    width: 100%;
+  }
+  .contenido-energia {
+    padding: 0 20px;
+    text-align: left;
+    align-items: center;
+  }
+
+  .detalle-energia {
+    text-align: left;
+  }
+
+  .overlay {
+    padding: 0 20px;
+    text-align: center;
+  }
+
+  .overlay h2 {
+    font-size: 28px;
+  }
+
+  .overlay p {
+    font-size: 16px;
+  }
+
+  .overlay button {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+
+  
+}
+
+/* Extra pequeñas (≤ 576px) */
+@media (max-width: 576px) {
+  .footer-bottom {
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-text {
+    max-width: 100%;
+  }
+
+  .footer-icons {
+    gap: 20px;
+  }
+ 
+}
+
+.menu-toggle {
+  display: none;
+  cursor: pointer;
+  z-index: 1001;
+}
+
+.menu-toggle img {
+  height: 36px;
+  width: auto;
+}
+
+@media (max-width: 992px) {
+  .menu-toggle {
+    display: block;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    z-index: 1001;
+  }
+
+  .menu-toggle img{
+    object-fit: contain;
+    height: 26px;
+    width: 25px;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 0 0 12px 12px;
+    z-index: 1000;
+  }
+
+  .nav-links.show {
+    display: flex;
+  }
+
+  .icons {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .slide ul li img {
+    height: 100vh;
+    object-fit: cover;
+  }
+
+  .slider-container,
+  .slide,
+  .slide ul,
+  .slide ul li {
+    height: 100vh;
+  }
 }

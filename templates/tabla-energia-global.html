@@ -25,6 +25,10 @@
                         <img src="../static/assets/images/Favicon.png" alt="Logo empresa">
                     </div>
 
+                    <div class="menu-toggle" id="menu-toggle">
+                        <img src="../static/assets/icons/menu-icon-hamburguesa.png" alt="Menú">
+                    </div>
+
                     <ul class="nav-links">
                         <li><a href="index.html">Inicio</a></li>
                         <li><a href="tipos-de-energia.html">Tipos de Energía</a></li>
@@ -40,24 +44,15 @@
 
                 </nav>
 
-                <!-- Slider de imagenes del home -->
+                <!-- imagenes del home -->
 
-                <div class="slider-container">
-                    <div class="slide slider-img">
-                        <ul>
-                            <li><img src="../static/assets/images/historico-slider.png" alt=""></li>
-                        </ul>
+                <section class="hero2">
+                    <div class="overlay2">
+                      <h2>Histórico de datos</h2>
+                      <p>Con el paso del tiempo, la humanidad ha avanzado en el uso de energías renovables, como muestran las cifras al comparar 1965 con 2021. Este progreso es fruto de esfuerzos colectivos e inversiones. Aunque aún falta camino, los datos confirman que el cambio es posible. El gran reto ahora es lograr que toda la energía que consumimos provenga de fuentes limpias, un objetivo clave para un futuro sostenible.</p>
+                      <a href="#contenedor-historico"><button class="slide-button">Ver datos históricos</button></a>
                     </div>
-
-                    <div class="slide-text">
-                        <h1>Histórico de datos</h1>
-                        <p class="texto-slider-historico">Con el paso del tiempo, la humanidad ha avanzado en el uso de energías renovables, como muestran las cifras al comparar 1965 con 2021. Este progreso es fruto de esfuerzos colectivos e inversiones. Aunque aún falta camino, los datos confirman que el cambio es posible. El gran reto ahora es lograr que toda la energía que consumimos provenga de fuentes limpias, un objetivo clave para un futuro sostenible.</p>
-                        <button class="slide-button">
-                            <a href="#contenedor-historico" class="boton-descubre-historico">Descubre Más</a>
-                        </button>
-                    </div>
-                </div>
-            </div>
+                </section>
         </header>
         <main>
             <section id="contenedor-historico"> 
@@ -155,6 +150,15 @@
         <!-- Fin del footer -->
         <script type="module" src="../static/js/funcionesTablaGlobal.js"></script>
     </div>
+
+    <script>
+        const toggleBtn = document.getElementById('menu-toggle');
+        const navLinks = document.querySelector('.nav-links');
+    
+        toggleBtn.addEventListener('click', () => {
+          navLinks.classList.toggle('show');
+        });
+    </script>
 
 </body>
 

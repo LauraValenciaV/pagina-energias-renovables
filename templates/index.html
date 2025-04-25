@@ -28,6 +28,10 @@
                         <img src="../static/assets/images/Favicon.png" alt="Logo empresa">
                     </div>
 
+                    <div class="menu-toggle" id="menu-toggle">
+                      <img src="../static/assets/icons/menu-icon-hamburguesa.png" alt="Menú">
+                    </div>
+
                     <ul class="nav-links">
                         <li><a href="index.html">Inicio</a></li>
                         <li><a href="tipos-de-energia.html">Tipos de Energía</a></li>
@@ -289,7 +293,19 @@
 
         <!-- Fin del footer -->
         <script src="js/script.js"></script>
+
+      
+
     </div>
+
+    <script>
+      const toggleBtn = document.getElementById('menu-toggle');
+      const navLinks = document.querySelector('.nav-links');
+  
+      toggleBtn.addEventListener('click', () => {
+        navLinks.classList.toggle('show');
+      });
+    </script>
 
 </body>
 
